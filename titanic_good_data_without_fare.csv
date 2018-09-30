@@ -1,0 +1,2200 @@
+,Name,Age,Class/Dept,Survived,Sex
+0,"ALLEN, Miss Elisabeth Walton",29.0,1,True,0.0
+1,"ALLISON, Master Hudson Trevor",0.9,1,True,1.0
+2,"ALLISON, Miss Helen Loraine",2.0,1,False,0.0
+3,"ALLISON, Mr Hudson Joshua Creighton",30.0,1,False,1.0
+4,"ALLISON, Mrs Bessie Waldo",25.0,1,False,0.0
+5,"ANDERSON, Mr Harry",47.0,1,True,1.0
+6,"ANDREWS, Miss Kornelia Theodosia",62.0,1,True,0.0
+7,"ANDREWS, Mr Thomas",39.0,1,False,1.0
+8,"APPLETON, Mrs Charlotte",53.0,1,True,0.0
+9,"ARTAGAVEYTIA, Mr Ramon",71.0,1,False,1.0
+10,"ASTOR, Colonel John Jacob",47.0,1,False,1.0
+11,"ASTOR, Mrs Madeleine Talmage",18.0,1,True,0.0
+12,"AUBART, Mme. Leontine Pauline",24.0,1,True,0.0
+13,"BARBER, Miss Ellen ""Nellie""",26.0,1,True,0.0
+14,"BARKWORTH, Mr Algernon Henry",47.0,1,True,1.0
+15,"BAUMANN, Mr John D.",60.0,1,False,1.0
+16,"BAXTER, Mr Quigg Edmond",24.0,1,False,1.0
+17,"BAXTER, Mrs Hne",50.0,1,True,0.0
+18,"BAZZANI, Mrs Albina",36.0,1,True,0.0
+19,"BEATTIE, Mr Thomson",36.0,1,False,1.0
+20,"BECKWITH, Mr Richard Leonard",37.0,1,True,1.0
+21,"BECKWITH, Mrs Sallie",46.0,1,True,0.0
+22,"BEHR, Mr Karl Howell",26.0,1,True,1.0
+23,"BESSETTE, Miss Nellie Mayo",39.0,1,True,0.0
+24,"BIDOIS, Miss Rosalie",46.0,1,True,0.0
+25,"BIRD, Miss Ellen",31.0,1,True,0.0
+26,"BIRNBAUM, Mr Jakob",24.0,1,False,1.0
+27,"BISHOP, Mr Dickinson H.",25.0,1,True,1.0
+28,"BISHOP, Mrs Helen",19.0,1,True,0.0
+29,"BJORNSTROM-STEFFANSSON, Mr Mauritz HAkan",28.0,1,True,1.0
+30,"BLACKWELL, Mr Stephen Weart",45.0,1,False,1.0
+31,"BLANK, Mr Henry",39.0,1,True,1.0
+32,"BONNELL, Miss Caroline",30.0,1,True,0.0
+33,"BONNELL, Miss Elizabeth",61.0,1,True,0.0
+34,"BOREBANK, Mr John James",42.0,1,False,1.0
+35,"BOWEN, Miss Grace Scott",45.0,1,True,0.0
+36,"BOWERMAN, Miss Elsie Edith",22.0,1,True,0.0
+37,"BRADY, Mr John Bertram",41.0,1,False,1.0
+38,"BRANDEIS, Mr Emil",48.0,1,False,1.0
+39,"BRERETON, Mr George Andrew",37.0,1,True,1.0
+40,"BREWE, Dr Arthur Jackson",45.0,1,False,1.0
+41,"BROWN, Mrs Caroline Lane",59.0,1,True,0.0
+42,"BROWN, Mrs Margaret",44.0,1,True,0.0
+43,"BUCKNELL, Mrs Emma Eliza",59.0,1,True,0.0
+44,"BURNS, Miss Elizabeth Margaret",41.0,1,True,0.0
+45,"BUTT, Major Archibald Willingham",46.0,1,False,1.0
+47,"CALDERHEAD, Mr Edward Pennington",42.0,1,True,1.0
+48,"CANDEE, Mrs Helen Churchill",52.0,1,True,0.0
+49,"CARDEZA, Mr Thomas Drake Martinez",36.0,1,True,1.0
+50,"CARDEZA, Mrs Charlotte Wardle",58.0,1,True,0.0
+51,"CARLSSON, Mr Frans Olof",33.0,1,False,0.0
+52,"CARRAU, Mr Francisco M.",31.0,1,False,0.0
+53,"CARRAU, Mr JosE Pedro",17.0,1,False,1.0
+54,"CARTER, Master William Thornton II",11.0,1,True,1.0
+55,"CARTER, Miss Lucile Polk",13.0,1,True,0.0
+56,"CARTER, Mr William Ernest",36.0,1,True,1.0
+57,"CARTER, Mrs Lucile",36.0,1,True,0.0
+58,"CASE, Mr Howard Brown",49.0,1,False,1.0
+59,"CASSEBEER, Mrs Eleanor Genevieve",36.0,1,True,0.0
+60,"CAVENDISH, Mr Tyrell William",36.0,1,False,1.0
+61,"CAVENDISH, Mrs Julia Florence",25.0,1,True,0.0
+62,"CHAFFEE, Mr Herbert Fuller",46.0,1,False,1.0
+63,"CHAFFEE, Mrs Carrie Constance",47.0,1,True,0.0
+64,"CHAMBERS, Mr Norman Campbell",27.0,1,True,1.0
+65,"CHAMBERS, Mrs Bertha",32.0,1,True,0.0
+66,"CHAUDANSON, Miss Victorine",36.0,1,True,0.0
+67,"CHERRY, Miss Gladys",30.0,1,True,0.0
+68,"CHEVRE, Mr Paul Romaine Marie Leonce",45.0,1,True,1.0
+69,"CHIBNALL, Mrs Edith Martha Bowerman",48.0,1,True,0.0
+70,"CHISHOLM, Mr Roderick Robert Crispin",40.0,1,False,1.0
+71,"CLARK, Mr Walter Miller",27.0,1,False,1.0
+72,"CLARK, Mrs Virginia Estelle",26.0,1,True,0.0
+73,"CLEAVER, Miss Alice Catherine",22.0,1,True,0.0
+74,"CLIFFORD, Mr George Quincy",40.0,1,False,1.0
+75,"COLLEY, Mr Edward Pomeroy",37.0,1,False,1.0
+76,"COMPTON, Miss Sara Rebecca",39.0,1,True,0.0
+77,"COMPTON, Mr Alexander Taylor jr",37.0,1,False,1.0
+78,"COMPTON, Mrs Mary Eliza",64.0,1,True,0.0
+79,"CORNELL, Mrs Malvina Helen",55.0,1,True,0.0
+80,"CRAFTON, Mr John Bertram",59.0,1,False,1.0
+81,"CROSBY, Captain Edward Gifford",70.0,1,False,1.0
+82,"CROSBY, Miss Harriette Rebecca",39.0,1,True,0.0
+83,"CROSBY, Mrs Catherine Elizabeth",64.0,1,True,0.0
+84,"CUMINGS, Mr John Bradley",39.0,1,False,1.0
+85,"CUMINGS, Mrs Florence Briggs",35.0,1,True,0.0
+86,"DALY, Mr Peter Dennis",51.0,1,True,1.0
+87,"DANIEL, Mr Robert Williams",27.0,1,True,1.0
+88,"DANIELS, Miss Sarah",33.0,1,True,0.0
+89,"DAVIDSON, Mr Thornton",31.0,1,False,1.0
+90,"DAVIDSON, Mrs Orian",27.0,1,True,0.0
+91,"DICK, Mr Albert Adrian",31.0,1,True,1.0
+92,"DICK, Mrs Vera",17.0,1,True,0.0
+93,"DODGE, Dr Washington",52.0,1,True,1.0
+94,"DODGE, Master Washington",4.0,1,True,1.0
+95,"DODGE, Mrs Ruth",34.0,1,True,0.0
+96,"DOUGLAS, Mr Walter Donald",50.0,1,False,0.0
+97,"DOUGLAS, Mrs Mahala",48.0,1,True,0.0
+98,"DOUGLAS, Mrs Mary Helene",27.0,1,True,0.0
+99,"DUFF GORDON, Lucy Christiana, Lady",48.0,1,True,0.0
+100,"DUFF GORDON, Sir Cosmo Edmund",49.0,1,True,1.0
+101,"DULLES, Mr William Crothers",39.0,1,False,1.0
+102,"EARNSHAW, Mrs Olive",23.0,1,True,0.0
+103,"ENDRES, Miss Caroline Louise",39.0,1,True,0.0
+104,"EUSTIS, Miss Elizabeth Mussey",54.0,1,True,0.0
+105,"EVANS, Miss Edith Corse",36.0,1,False,0.0
+106,"FARTHING, Mr John",57.0,1,False,1.0
+107,"FLEGENHEIM, Mrs Antoinette",48.0,1,True,0.0
+108,"FLEMING, Miss Margaret",42.0,1,True,0.0
+109,"FLYNN, Mr John Irwin",36.0,1,True,1.0
+110,"FOREMAN, Mr Benjamin Laventall",30.0,1,False,1.0
+111,"FORTUNE, Miss Alice Elizabeth",24.0,1,True,0.0
+112,"FORTUNE, Miss Ethel Flora",28.0,1,True,0.0
+113,"FORTUNE, Miss Mabel Helen",23.0,1,True,0.0
+114,"FORTUNE, Mr Charles Alexander",19.0,1,False,1.0
+115,"FORTUNE, Mr Mark",64.0,1,False,1.0
+116,"FORTUNE, Mrs Mary",60.0,1,True,0.0
+117,"FROLICHER-STEHLI, Mr Maximilian Josef",60.0,1,True,1.0
+118,"FROLICHER-STEHLI, Mrs Margaretha Emerentia",48.0,1,True,0.0
+119,"FROLICHER, Miss Hedwig Margaritha",22.0,1,True,0.0
+120,"FRANCATELLI, Miss Laura Mabel",31.0,1,True,0.0
+121,"FRANKLIN, Mr Thomas Parnham",37.0,1,False,1.0
+122,"FRAUENTHAL, Dr Henry William",49.0,1,True,1.0
+123,"FRAUENTHAL, Mr Isaac Gerald",43.0,1,True,1.0
+124,"FRAUENTHAL, Mrs Clara",42.0,1,True,0.0
+125,"FRY, Mr John Richard",39.0,1,False,1.0
+126,"FUTRELLE, Mr Jacques Heath",37.0,1,False,1.0
+127,"FUTRELLE, Mrs Lily May",35.0,1,True,0.0
+128,"GEE, Mr Arthur H.",47.0,1,False,1.0
+129,"GIBSON, Miss Dorothy Winifred",22.0,1,True,0.0
+130,"GIBSON, Mrs Pauline Caroline",44.0,1,True,0.0
+131,"GIEGER, Miss Amalie ""Emily"" Henriette",35.0,1,True,0.0
+132,"GIGLIO, Mr Victor",24.0,1,False,1.0
+133,"GOLDENBERG, Mr Samuel L.",47.0,1,True,1.0
+134,"GOLDENBERG, Mrs Nella",40.0,1,True,0.0
+135,"GOLDSCHMIDT, Mr George B.",71.0,1,False,1.0
+136,"GRACIE, Colonel Archibald",53.0,1,True,1.0
+137,"GRAHAM, Miss Margaret Edith",19.0,1,True,0.0
+138,"GRAHAM, Mr George Edward",38.0,1,False,1.0
+139,"GRAHAM, Mrs Edith",59.0,1,True,0.0
+140,"GREENFIELD, Mr William Bertram",23.0,1,True,1.0
+141,"GREENFIELD, Mrs Blanche",45.0,1,True,0.0
+142,"GUGGENHEIM, Mr Benjamin",46.0,1,False,1.0
+143,"HARDER, Mr George Achilles",25.0,1,True,1.0
+144,"HARDER, Mrs Dorothy",21.0,1,True,0.0
+145,"HARPER, Mr Henry Sleeper",48.0,1,True,1.0
+146,"HARPER, Mrs Myna",49.0,1,True,0.0
+147,"HARRINGTON, Mr Charles Henry",37.0,1,False,1.0
+148,"HARRIS, Mr Henry Birkhardt",45.0,1,False,1.0
+149,"HARRIS, Mrs Irene",35.0,1,True,0.0
+150,"HARRISON, Mr William Henry",45.0,1,False,1.0
+151,"HASSAB, Mr Hammad",27.0,1,True,1.0
+152,"HAWKSFORD, Mr Walter James",45.0,1,True,1.0
+153,"HAYS, Miss Margaret Bechstein",24.0,1,True,0.0
+154,"HAYS, Mr Charles Melville",55.0,1,False,1.0
+155,"HAYS, Mrs Clara Jennings",52.0,1,True,0.0
+156,"HEAD, Mr Christopher",42.0,1,False,1.0
+157,"HILLIARD, Mr Herbert Henry",44.0,1,False,1.0
+158,"HIPKINS, Mr William Edward",55.0,1,False,1.0
+159,"HIPPACH, Miss Jean Gertrude",17.0,1,True,0.0
+160,"HIPPACH, Mrs Ida Sophia",44.0,1,True,0.0
+161,"HOGEBOOM, Mrs Anna Louisa",51.0,1,True,0.0
+162,"HOLVERSON, Mr Alexander Oskar",42.0,1,False,1.0
+163,"HOLVERSON, Mrs Mary Aline",35.0,1,True,0.0
+164,"HOMER, Mr Harry",40.0,1,True,1.0
+165,"HOYT, Mr Frederick Maxfield",38.0,1,True,0.0
+166,"HOYT, Mr William Fisher",42.0,1,False,1.0
+167,"HOYT, Mrs Jane Anne",31.0,1,True,0.0
+168,"ICARD, Miss Amelie ""Amelia""",38.0,1,True,0.0
+169,"ISHAM, Miss Ann Elizabeth",50.0,1,False,0.0
+170,"ISMAY, Mr Joseph Bruce",49.0,1,True,1.0
+171,"JONES, Mr Charles Cresson",46.0,1,False,1.0
+172,"JULIAN, Mr Henry Forbes",50.0,1,False,1.0
+173,"KEEPING, Mr Edwin Herbert",33.0,1,False,1.0
+174,"KENT, Mr Edward Austin",58.0,1,False,1.0
+175,"KENYON, Mr Frederick R.",41.0,1,False,0.0
+176,"KENYON, Mrs Marion",31.0,1,True,0.0
+177,"KIMBALL, Mr Edwin Nelson Jr.",42.0,1,True,1.0
+178,"KIMBALL, Mrs Gertrude",45.0,1,True,0.0
+180,"KREUCHEN, Miss Emilie",29.0,1,True,0.0
+182,"LEADER, Dr Alice",49.0,1,True,1.0
+183,"LEROY, Miss Berthe",27.0,1,True,0.0
+184,"LESUEUR, Mr Gustave J.",35.0,1,True,1.0
+185,"LEWY, Mr Ervin G.",31.0,1,False,1.0
+186,"LINDEBERG-LIND, Mr Erik Gustaf",42.0,1,False,1.0
+187,"LINDSTROM, Mrs Sigrid",55.0,1,True,0.0
+188,"LINES, Miss Mary Conover",16.0,1,True,0.0
+189,"LINES, Mrs Elizabeth Lindsey",50.0,1,True,0.0
+190,"LONG, Mr Milton Clyde",29.0,1,False,1.0
+191,"LONGLEY, Miss Gretchen Fiske",21.0,1,True,0.0
+192,"LORING, Mr Joseph Holland",30.0,1,False,1.0
+193,"LURETTE, Miss Eugenie Elise",59.0,1,True,0.0
+194,"MADILL, Miss Georgette Alexandra",16.0,1,True,0.0
+195,"MAGUIRE, Mr John Edward",30.0,1,False,1.0
+196,"MAIONI, Miss Roberta Elizabeth Mary",19.0,1,True,0.0
+197,"MARECHAL, Mr Pierre",28.0,1,True,1.0
+198,"MARVIN, Mr Daniel Warner",18.0,1,False,1.0
+199,"MARVIN, Mrs Mary Graham Carmichael",18.0,1,True,0.0
+200,"MAYNE, Mlle Bertha Antonine",24.0,1,True,0.0
+201,"MCCAFFRY, Mr Thomas Francis",46.0,1,False,0.0
+202,"MCCARTHY, Mr Timothy J.",54.0,1,False,1.0
+203,"MCGOUGH, Mr James Robert",35.0,1,True,1.0
+204,"MEYER, Mr Edgar Joseph",28.0,1,False,1.0
+205,"MEYER, Mrs Leila",25.0,1,True,0.0
+206,"MILLET, Mr Francis Davis",65.0,1,False,0.0
+207,"MINAHAN, Dr William Edward",44.0,1,False,1.0
+208,"MINAHAN, Miss Daisy E.",33.0,1,True,0.0
+209,"MINAHAN, Mrs Lillian E.",37.0,1,True,0.0
+210,"MOCK, Mr Philipp Edmund",30.0,1,True,1.0
+211,"MOLSON, Mr Harry Markland",55.0,1,False,1.0
+212,"MOORE, Mr Clarence Bloomfield",47.0,1,False,1.0
+213,"NATSCH, Mr Charles",36.0,1,False,1.0
+214,"NEWELL, Miss Madeleine",31.0,1,True,0.0
+215,"NEWELL, Miss Marjorie Anne",23.0,1,True,0.0
+216,"NEWELL, Mr Arthur Webster",58.0,1,False,1.0
+217,"NEWSOM, Miss Helen Monypeny",19.0,1,True,0.0
+218,"NICHOLSON, Mr Arthur Ernest",64.0,1,False,1.0
+219,"NOURNEY, Mr Alfred",20.0,1,True,1.0
+220,"OLIVA Y OCANA, Dona Fermina",39.0,1,True,0.0
+221,"OMONT, Mr Alfred Fernand",29.0,1,True,1.0
+222,"OSTBY, Miss Helen Ragnhild",22.0,1,True,0.0
+223,"OSTBY, Mr Engelhart Cornelius",64.0,1,False,1.0
+224,"OVIES Y RODRIGUEZ, Mr Servando Jose Florentino",36.0,1,False,1.0
+225,"PARR, Mr William Henry Marsh",29.0,1,False,1.0
+226,"PARTNER, Mr Austin",40.0,1,False,1.0
+227,"PAYNE, Mr Vivian Ponsonby",22.0,1,False,1.0
+228,"PENASCO Y CASTELLANA, Mr Victor",24.0,1,False,1.0
+229,"PENASCO Y CASTELLANA, Mrs Maria Josefa Perezde Soto y Vallejo",22.0,1,True,0.0
+230,"PEARS, Mr Thomas Clinton",29.0,1,False,1.0
+231,"PEARS, Mrs Edith",22.0,1,True,0.0
+232,"PERREAULT, Miss Mary Anne",33.0,1,True,0.0
+233,"PEUCHEN, Major Arthur Godfrey",52.0,1,True,1.0
+234,"PORTER, Mr Walter Chamberlain",46.0,1,False,1.0
+235,"POTTER, Mrs Lily Alexenia",56.0,1,True,0.0
+236,"REUCHLIN, Mr Jonkheer Johan George",38.0,1,False,1.0
+237,"RHEIMS, Mr George Alexander Lucien",36.0,1,True,1.0
+238,"RIGHINI, Mr Sante",22.0,1,False,1.0
+239,"ROBBINS, Mr Victor",42.0,1,False,1.0
+240,"ROBERT, Mrs Elisabeth Walton",43.0,1,True,0.0
+241,"ROEBLING, Mr Washington Augustus II",31.0,1,False,1.0
+242,"ROMAINE, Mr Charles Hallace",45.0,1,True,1.0
+243,"ROOD, Mr Hugh Roscoe",38.0,1,False,1.0
+244,"ROSENBAUM, Miss Edith Louise",34.0,1,True,0.0
+245,"ROSENSHINE, Mr George",46.0,1,False,1.0
+246,"ROSS, Mr John Hugo",36.0,1,False,1.0
+247,"ROTHES, Lucy Noel Martha, Countess of",33.0,1,True,0.0
+248,"ROTHSCHILD, Mr Martin",46.0,1,False,1.0
+249,"ROTHSCHILD, Mrs Elizabeth Jane Anne",54.0,1,True,0.0
+250,"ROWE, Mr Alfred G.",59.0,1,False,1.0
+251,"RYERSON, Master John Borie",13.0,1,True,1.0
+252,"RYERSON, Miss Emily Borie",18.0,1,True,0.0
+253,"RYERSON, Miss Susan Parker ""Suzette""",21.0,1,True,0.0
+254,"RYERSON, Mr Arthur Larned",61.0,1,False,1.0
+255,"RYERSON, Mrs Emily Maria",48.0,1,True,0.0
+256,"SAGESSER, Mlle Emma",24.0,1,True,0.0
+257,"SAALFELD, Mr Adolphe",47.0,1,True,1.0
+258,"SALOMON, Mr Abraham Lincoln",43.0,1,True,1.0
+259,"SCHABERT, Mrs Emma",35.0,1,True,0.0
+260,"SERREPLAN, Miss Auguste",30.0,1,True,0.0
+261,"SEWARD, Mr Frederic Kimber",34.0,1,True,0.0
+262,"SHUTES, Miss Elizabeth Weed",40.0,1,True,0.0
+263,"SILVERTHORNE, Mr Spencer Victor",35.0,1,True,1.0
+264,"SILVEY, Mr William Baird",50.0,1,False,1.0
+265,"SILVEY, Mrs Alice",39.0,1,True,0.0
+266,"SIMONIUS-BLUMER, Mr Colonel (Oberst) Alfons",56.0,1,True,1.0
+267,"SLOPER, Mr William Thompson",28.0,1,True,1.0
+268,"SMART, Mr John Montgomery",56.0,1,False,1.0
+269,"SMITH, Mr James Clinch",56.0,1,False,1.0
+270,"SMITH, Mr Lucian Philip",24.0,1,False,1.0
+272,"SMITH, Mrs Mary Eloise",18.0,1,True,0.0
+273,"SNYDER, Mr John Pillsbury",24.0,1,True,1.0
+274,"SNYDER, Mrs Nelle",23.0,1,True,0.0
+275,"SPEDDEN, Master Robert Douglas",6.0,1,True,1.0
+276,"SPEDDEN, Mr Frederic Oakley",45.0,1,True,0.0
+277,"SPEDDEN, Mrs Margaretta Corning",39.0,1,True,0.0
+278,"SPENCER, Mr William Augustus",57.0,1,False,1.0
+279,"SPENCER, Mrs Marie Eugenie",45.0,1,True,0.0
+280,"STAHELIN-MAEGLIN, Dr Max",32.0,1,True,1.0
+281,"STEAD, Mr William Thomas",62.0,1,False,1.0
+282,"STENGEL, Mr Charles Emil Henry",54.0,1,True,1.0
+283,"STENGEL, Mrs Annie May",44.0,1,True,0.0
+284,"STEPHENSON, Mrs Martha",52.0,1,True,0.0
+285,"STEWART, Mr Albert A.",54.0,1,False,1.0
+286,"STONE, Mrs Martha Evelyn",62.0,1,True,0.0
+287,"STRAUS, Mr Isidor",67.0,1,False,1.0
+288,"STRAUS, Mrs Rosalie Ida",63.0,1,False,0.0
+289,"SUTTON, Mr Frederick",61.0,1,False,0.0
+290,"SWIFT, Mrs Margaret Welles",46.0,1,True,0.0
+291,"TAUSSIG, Miss Ruth",18.0,1,True,0.0
+292,"TAUSSIG, Mr Emil",52.0,1,False,1.0
+293,"TAUSSIG, Mrs Tillie",39.0,1,True,0.0
+294,"TAYLOR, Mr Elmer Zebley",48.0,1,True,1.0
+295,"TAYLOR, Mrs Juliet Cummins",49.0,1,True,0.0
+296,"THAYER, Mr John Borland",49.0,1,False,1.0
+297,"THAYER, Mr John Borland jr",17.0,1,True,1.0
+298,"THAYER, Mrs Marian Longstreth",39.0,1,True,0.0
+299,"THORNE, Miss Gertrude Maybelle",38.0,1,True,0.0
+300,"TUCKER, Mr Gilbert Milligan jr",31.0,1,True,1.0
+301,"URUCHURTU, Don. Manuel Ramirez",39.0,1,False,1.0
+302,"VAN DER HOEF, Mr Wyckoff",61.0,1,False,1.0
+303,"WALKER, Mr William Anderson",48.0,1,False,1.0
+304,"WARD, Miss Annie Moore",38.0,1,True,0.0
+305,"WARREN, Mr Frank Manley",63.0,1,False,0.0
+306,"WARREN, Mrs Anna Sophia",60.0,1,True,0.0
+307,"WEIR, Colonel John",59.0,1,False,1.0
+308,"WHITE, Mr Percival Wayland",54.0,1,False,1.0
+309,"WHITE, Mr Richard Frasar",21.0,1,False,0.0
+310,"WHITE, Mrs Ella",55.0,1,True,0.0
+311,"WICK, Miss Mary Natalie",31.0,1,True,0.0
+312,"WICK, Mr George Dennick",57.0,1,False,1.0
+313,"WICK, Mrs Mary",45.0,1,True,0.0
+314,"WIDENER, Mr George Dunton",50.0,1,False,1.0
+315,"WIDENER, Mr Harry Elkins",27.0,1,False,1.0
+316,"WIDENER, Mrs Eleanor",50.0,1,True,0.0
+317,"WILLARD, Miss Constance",21.0,1,True,0.0
+318,"WILLIAMS, Mr Charles Duane",51.0,1,False,1.0
+319,"WILLIAMS, Mr Richard Norris II",21.0,1,True,1.0
+320,"WILSON, Miss Helen Alice",31.0,1,True,0.0
+321,"WOOLNER, Mr Hugh",45.0,1,True,1.0
+322,"WRIGHT, Mr George",62.0,1,False,1.0
+323,"YOUNG, Miss Marie Grice",36.0,1,True,0.0
+324,"ABELSON, Mr Samuel",30.0,2,False,1.0
+325,"ABELSON, Mrs",28.0,2,True,0.0
+326,"ALDWORTH, Mr Charles Augustus",30.0,2,False,1.0
+327,"ANDREW, Mr Edgar Samuel",17.0,2,False,1.0
+328,"ANDREW, Mr Frank Thomas",25.0,2,False,0.0
+329,"ANGLE, Mr William A.",32.0,2,False,1.0
+330,"ANGLE, Mrs Florence ""Mary"" Agnes",36.0,2,True,0.0
+331,"ASHBY, Mr John",57.0,2,False,1.0
+332,"BAILEY, Mr Percy Andrew",15.0,2,False,1.0
+333,"BAINBRIGGE, Mr Charles Robert",23.0,2,False,1.0
+334,"BALL, Mrs Ada E.",36.0,2,True,0.0
+335,"BANFIELD, Mr Frederick James",28.0,2,False,0.0
+336,"BATEMAN, Fr Robert James",51.0,2,False,0.0
+337,"BEANE, Mr Edward",32.0,2,True,1.0
+338,"BEANE, Mrs Ethel",19.0,2,True,0.0
+339,"BEAUCHAMP, Mr Henry James",28.0,2,False,1.0
+340,"BECKER, Master Richard F.",1.0,2,True,1.0
+341,"BECKER, Miss Marion Louise",4.0,2,True,0.0
+342,"BECKER, Miss Ruth Elizabeth",12.0,2,True,0.0
+343,"BECKER, Mrs Nellie E.",35.0,2,True,0.0
+344,"BEESLEY, Mr Lawrence",34.0,2,True,1.0
+345,"BENTHAM, Miss Lillian W.",19.0,2,True,0.0
+346,"BERRIMAN, Mr William John",23.0,2,False,1.0
+347,"BOTSFORD, Mr William Hull",25.0,2,False,1.0
+348,"BOWENUR, Mr Solomon",42.0,2,False,1.0
+349,"BRACKEN, Mr James H.",29.0,2,False,1.0
+350,"BRAILEY, Mr W. Theodore Ronald",24.0,2,False,1.0
+351,"BRICOUX, Mr Roger Marie",20.0,2,False,1.0
+352,"BRITO, Mr Jose Joaquim de",32.0,2,False,1.0
+353,"BROWN, Miss Amelia Mary ""Mildred""",18.0,2,True,0.0
+354,"BROWN, Miss Edith Eileen",15.0,2,True,0.0
+355,"BROWN, Mr Thomas William Solomon",60.0,2,False,1.0
+356,"BROWN, Mrs Elizabeth Catherine",40.0,2,True,0.0
+357,"BRYHL, Miss Dagmar Jenny Ingeborg",20.0,2,True,0.0
+358,"BRYHL, Mr Kurt Arnold Gottfrid",25.0,2,False,1.0
+359,"BUSS, Miss Kate",36.0,2,True,0.0
+360,"BUTLER, Mr Reginald Fenton",25.0,2,False,1.0
+361,"BYLES, Fr Thomas Roussel Davids",42.0,2,False,0.0
+362,"BYSTROM, Mrs Karolina",42.0,2,True,0.0
+363,"CALDWELL, Master Alden Gates",0.0,2,True,1.0
+364,"CALDWELL, Mr Albert Francis",26.0,2,True,0.0
+365,"CALDWELL, Mrs Sylvia Mae",28.0,2,True,0.0
+366,"CAMERON, Miss Clear Annie",35.0,2,True,0.0
+367,"CAMPBELL, Mr William Henry",21.0,2,False,1.0
+368,"CARBINES, Mr William",19.0,2,False,1.0
+369,"CARTER, Fr Ernest Courtenay",54.0,2,False,0.0
+370,"CARTER, Mrs Lilian",45.0,2,False,0.0
+371,"CHAPMAN, Mr Charles Henry",52.0,2,False,1.0
+372,"CHAPMAN, Mr John Henry",36.0,2,False,1.0
+373,"CHAPMAN, Mrs Sara Elizabeth",28.0,2,False,0.0
+374,"CHRISTY, Miss Rachel Julie Cohen",25.0,2,True,0.0
+375,"CHRISTY, Mrs Alice Frances",45.0,2,True,0.0
+376,"CLARKE, Mr Charles Valentine",29.0,2,False,1.0
+377,"CLARKE, Mr John Frederick Preston",30.0,2,False,1.0
+378,"CLARKE, Mrs Ada Maria",28.0,2,True,0.0
+379,"COLERIDGE, Mr Reginald Charles",29.0,2,False,1.0
+380,"COLLANDER, Mr Erik Gustaf",27.0,2,False,1.0
+381,"COLLETT, Mr Sidney Clarence Stuart",25.0,2,True,1.0
+382,"COLLYER, Miss Marjorie Charlotte ""Lottie""",8.0,2,True,0.0
+383,"COLLYER, Mr Harvey",31.0,2,False,1.0
+384,"COLLYER, Mrs Charlotte Annie",31.0,2,True,0.0
+385,"COOK, Mrs Selena",22.0,2,True,0.0
+386,"CORBETT, Mrs Irene",30.0,2,False,0.0
+387,"COREY, Mrs Mary Phyllis Elizabeth",30.0,2,False,0.0
+388,"COTTERILL, Mr Henry ""Harry""",20.0,2,False,1.0
+389,"CUNNINGHAM, Mr Alfred Fleming",21.0,2,False,1.0
+390,"DAVIES, Master John Morgan jr",8.0,2,True,1.0
+391,"DAVIES, Mr Charles Henry",21.0,2,False,1.0
+392,"DAVIES, Mrs Elizabeth Agnes Mary",48.0,2,True,0.0
+393,"DAVIS, Miss Mary",28.0,2,True,0.0
+394,"DEACON, Mr Percy William",20.0,2,False,1.0
+395,"DEL CARLO, Mr Sebastiano",29.0,2,False,1.0
+396,"DEL CARLO, Mrs Argene",24.0,2,True,0.0
+397,"DENBUOY, Mr Albert (""Herbert"")",25.0,2,False,1.0
+398,"DIBDEN, Mr William",18.0,2,False,1.0
+399,"DOLING, Miss Elsie",18.0,2,True,0.0
+400,"DOLING, Mrs Ada Julia",34.0,2,True,0.0
+401,"DOUTON, Mr William Joseph",55.0,2,False,1.0
+402,"DREW, Master Marshall Brines",8.0,2,True,1.0
+403,"DREW, Mr James Vivian",42.0,2,False,1.0
+404,"DREW, Mrs Lulu Thorne",34.0,2,True,0.0
+405,"DURAN Y MORE, Miss Asuncion",27.0,2,True,0.0
+406,"DURAN Y MORE, Miss Florentina",30.0,2,True,0.0
+407,"EITEMILLER, Mr George Floyd",23.0,2,False,1.0
+408,"ENANDER, Mr Ingvar",21.0,2,False,1.0
+409,"FAHLSTROM, Mr Arne Joma",18.0,2,False,1.0
+410,"FAUNTHORPE, Mr Harry Bartram",40.0,2,False,1.0
+411,"FILLBROOK, Mr Joseph Charles",18.0,2,False,1.0
+412,"FOX, Mr Stanley Hubert",38.0,2,False,1.0
+413,"FROST, Mr Anthony Wood",37.0,2,False,1.0
+414,"FUNK, Miss Annie Clemmer",38.0,2,False,0.0
+415,"FYNNEY, Mr Joseph J.",35.0,2,False,1.0
+416,"GALE, Mr Harry",38.0,2,False,1.0
+417,"GALE, Mr Shadrach",33.0,2,False,1.0
+418,"GARSIDE, Miss Ethel",34.0,2,True,0.0
+419,"GASKELL, Mr Alfred",16.0,2,False,1.0
+420,"GAVEY, Mr Laurence",26.0,2,False,1.0
+421,"GILBERT, Mr William",47.0,2,False,1.0
+422,"GILES, Mr Edgar",21.0,2,False,1.0
+423,"GILES, Mr Frederick Edward",20.0,2,False,0.0
+424,"GILES, Mr Ralph",24.0,2,False,1.0
+425,"GILL, Mr John William",24.0,2,False,1.0
+426,"GILLESPIE, Mr William Henry",34.0,2,False,1.0
+427,"GIVARD, Mr Hans Kristensen",30.0,2,False,1.0
+428,"GREENBERG, Mr Samuel",52.0,2,False,1.0
+429,"HAMALAINEN, Master Viljo Unto Johannes",0.0,2,True,1.0
+430,"HAMALAINEN, Mrs Anna",23.0,2,True,0.0
+431,"HALE, Mr Reginald",30.0,2,False,1.0
+432,"HARBECK, Mr William H.",44.0,2,False,1.0
+433,"HARPER, Miss Annie Jessie",6.0,2,True,0.0
+434,"HARPER, Rev. John",39.0,2,False,1.0
+435,"HARRIS, Mr George",62.0,2,True,1.0
+436,"HARRIS, Mr Walter",30.0,2,False,1.0
+437,"HART, Miss Eva Miriam",7.0,2,True,0.0
+438,"HART, Mr Benjamin",47.0,2,False,1.0
+439,"HART, Mrs Esther Ada",48.0,2,True,0.0
+440,"HARTLEY, Mr Wallace Henry",33.0,2,False,1.0
+441,"HERMAN, Miss Alice",24.0,2,True,0.0
+442,"HERMAN, Miss Kate",24.0,2,True,0.0
+443,"HERMAN, Mr Samuel",49.0,2,False,1.0
+444,"HERMAN, Mrs Jane",48.0,2,True,0.0
+445,"HEWLETT, Mrs Mary Dunbar",56.0,2,True,0.0
+446,"HICKMAN, Mr Leonard Mark",24.0,2,False,1.0
+447,"HICKMAN, Mr Lewis",30.0,2,False,1.0
+448,"HICKMAN, Mr Stanley George",20.0,2,False,1.0
+449,"HILTUNEN, Miss Marta",18.0,2,False,0.0
+450,"HOCKING, Miss Ellen ""Nellie""",20.0,2,True,0.0
+451,"HOCKING, Mr Richard George",23.0,2,False,1.0
+452,"HOCKING, Mr Samuel James Metcalfe",36.0,2,False,1.0
+453,"HOCKING, Mrs Elizabeth ""Eliza""",54.0,2,True,0.0
+454,"HODGES, Mr Henry Price",50.0,2,False,1.0
+455,"HOLD, Mr Stephen",44.0,2,False,1.0
+456,"HOLD, Mrs Annie Margaret",29.0,2,True,0.0
+457,"HOOD, Mr Ambrose Jr",22.0,2,False,1.0
+458,"HOSONO, Mr Masabumi",41.0,2,True,1.0
+459,"HOWARD, Mr Benjamin",63.0,2,False,1.0
+460,"HOWARD, Mrs Ellen Truelove",60.0,2,False,0.0
+461,"HUME, Mr John Law",29.0,2,False,1.0
+462,"HUNT, Mr George Henry",33.0,2,False,1.0
+463,"ILETT, Miss Bertha",17.0,2,True,0.0
+464,"JACOBSOHN, Mr Sidney Samuel",40.0,2,False,1.0
+465,"JACOBSOHN, Mrs Amy Frances Christy",24.0,2,True,0.0
+466,"JARVIS, Mr Denzil John",47.0,2,False,1.0
+467,"JEFFERYS, Mr Clifford Thomas",24.0,2,False,1.0
+468,"JEFFERYS, Mr Ernest Wilfred",22.0,2,False,1.0
+469,"JENKIN, Mr Stephen Curnow",32.0,2,False,1.0
+470,"JERWAN, Mrs Marie Marthe",23.0,2,True,0.0
+471,"KANTOR, Mr Sinai",34.0,2,False,1.0
+472,"KANTOR, Mrs Miriam",24.0,2,True,0.0
+473,"KARNES, Mrs Claire",28.0,2,False,0.0
+474,"KEANE, Miss Nora Agnes",46.0,2,True,0.0
+475,"KEANE, Mr Daniel",35.0,2,False,1.0
+476,"KELLY, Mrs Florence ""Fannie""",45.0,2,True,0.0
+477,"KIRKLAND, Fr Charles Leonard",52.0,2,False,0.0
+478,"KNIGHT, Mr Robert J.",39.0,2,False,1.0
+479,"KRINS, Mr Georges Alexandre",23.0,2,False,1.0
+480,"KVILLNER, Mr Johan Henrik Johannesson",31.0,2,False,1.0
+481,"LEVY, Mr Rene Jacques",36.0,2,False,1.0
+482,"LAHTINEN, Fr William",35.0,2,False,0.0
+483,"LAHTINEN, Mrs Anna Amelia",34.0,2,False,0.0
+484,"LAMB, Mr John Joseph",30.0,2,False,1.0
+485,"LAROCHE, Miss Louise",1.0,2,True,0.0
+486,"LAROCHE, Miss Simonne Marie Anne Andre",3.0,2,True,0.0
+487,"LAROCHE, Mr Joseph Philippe Lemercier",25.0,2,False,1.0
+488,"LAROCHE, Mrs Juliette Marie Louise",22.0,2,True,0.0
+489,"LEHMANN, Miss Bertha",17.0,2,True,0.0
+490,"LEITCH, Miss Jessie Wills",31.0,2,True,0.0
+491,"LEMORE, Mrs Amelia ""Milley""",34.0,2,True,0.0
+492,"LEYSON, Mr Robert William Norman",25.0,2,False,1.0
+493,"LINNANE, Mr John",61.0,2,False,1.0
+494,"LOUCH, Mr Charles Alexander",50.0,2,False,1.0
+495,"LOUCH, Mrs Alice Adelaide",42.0,2,True,0.0
+496,"LUNDIN, Miss Olga Elida",23.0,2,True,0.0
+497,"MACK, Mrs Mary",57.0,2,False,0.0
+498,"MALACHARD, Mr Jean-Noel",25.0,2,False,1.0
+499,"MALLET, Master Andre Clement",1.0,2,True,1.0
+500,"MALLET, Mr Albert",31.0,2,False,1.0
+501,"MALLET, Mrs Antonine Marie",24.0,2,True,0.0
+502,"MANGIAVACCHI, Mr Serafino Emilio",30.0,2,False,1.0
+503,"MATTHEWS, Mr William John",30.0,2,False,1.0
+504,"MAYBERY, Mr Frank Hubert",36.0,2,False,0.0
+505,"MCCRAE, Mr Arthur Gordon",32.0,2,False,1.0
+506,"MCCRIE, Mr James Matthew",30.0,2,False,1.0
+507,"MCKANE, Mr Peter David",46.0,2,False,1.0
+508,"MELLINGER, Miss Madeleine Violet",13.0,2,True,0.0
+509,"MELLINGER, Mrs Elizabeth Anne",41.0,2,True,0.0
+510,"MELLORS, Mr William John",19.0,2,True,1.0
+511,"MEYER, Mr August",31.0,2,False,1.0
+512,"MILLING, Mr Jacob Christian",48.0,2,False,1.0
+513,"MITCHELL, Mr Henry Michael",71.0,2,False,1.0
+514,"MONTVILA, Fr Juozas",27.0,2,False,0.0
+515,"MORAWECK, Dr Ernest",54.0,2,False,1.0
+516,"MORLEY, Mr Henry Samuel",38.0,2,False,1.0
+517,"MUDD, Mr Thomas Charles",16.0,2,False,1.0
+518,"MYLES, Mr Thomas Francis",63.0,2,False,0.0
+519,"NASSER, Mr Nicholas",28.0,2,False,1.0
+520,"NASSER, Mrs Adele",14.0,2,True,0.0
+521,"NAVRATIL, Master Edmond Roger",2.0,2,True,1.0
+522,"NAVRATIL, Master Michel Marcel",3.0,2,True,1.0
+523,"NAVRATIL, Mr Michel",32.0,2,False,1.0
+524,"NESSON, Mr Israel",26.0,2,False,1.0
+525,"NICHOLLS, Mr Joseph Charles",19.0,2,False,1.0
+526,"NORMAN, Mr Robert Douglas",28.0,2,False,1.0
+527,"NYE, Mrs Elizabeth",29.0,2,True,0.0
+528,"OTTER, Mr Richard",38.0,2,False,1.0
+529,"OXENHAM, Mr Percy Thomas",22.0,2,True,1.0
+530,"PADRON MANENT, Mr Julian",26.0,2,True,1.0
+531,"PAIN, Dr Alfred",23.0,2,False,1.0
+532,"PALLAS Y CASTELLO, Mr Emilio",29.0,2,True,1.0
+533,"PARKER, Mr Clifford Richard",28.0,2,False,1.0
+534,"PARKES, Mr Francis ""Frank""",18.0,2,False,0.0
+535,"PARRISH, Mrs Lutie Davis",59.0,2,True,0.0
+536,"PENGELLY, Mr Frederick William",19.0,2,False,0.0
+537,"PERNOT, Mr Rene",39.0,2,False,1.0
+538,"PERUSCHITZ, Fr Josef",41.0,2,False,0.0
+539,"PHILLIPS, Miss Alice Frances Louisa",21.0,2,True,0.0
+540,"PHILLIPS, Miss Kate Florence",19.0,2,True,0.0
+541,"PHILLIPS, Mr Escott Robert",42.0,2,False,1.0
+542,"PINSKY, Mrs Rosa",32.0,2,True,0.0
+543,"PONESELL, Mr Martin",24.0,2,False,1.0
+544,"PORTALUPPI, Mr Emilio Ilario Giuseppe",30.0,2,True,1.0
+545,"PULBAUM, Mr Franz",27.0,2,False,0.0
+546,"QUICK, Miss Phyllis May",2.0,2,True,0.0
+547,"QUICK, Miss Winifred Vera",8.0,2,True,0.0
+548,"QUICK, Mrs Jane",33.0,2,True,0.0
+549,"REEVES, Mr David",36.0,2,False,1.0
+550,"RENOUF, Mr Peter Henry",33.0,2,False,1.0
+551,"RENOUF, Mrs Lillian",30.0,2,True,0.0
+552,"REYNALDO, Ms Encarnacion",28.0,2,True,0.0
+553,"RICHARD, Mr Emile Phillippe",23.0,2,False,1.0
+554,"RICHARDS, Master Sibley George",0.0,2,True,1.0
+555,"RICHARDS, Master William Rowe",3.0,2,True,1.0
+556,"RICHARDS, Mrs Emily",24.0,2,True,0.0
+557,"RIDSDALE, Miss Lucy",50.0,2,True,0.0
+558,"ROGERS, Mr Reginald Harry",18.0,2,False,1.0
+559,"RUGG, Miss Emily",21.0,2,True,0.0
+560,"SCHMIDT, Mr August",26.0,2,False,1.0
+561,"SEDGWICK, Mr Charles Frederick Waddington",25.0,2,False,0.0
+562,"SHARP, Mr Percival James R.",27.0,2,False,1.0
+563,"SHELLEY, Mrs Imanita Parrish",25.0,2,True,0.0
+564,"SILVEN, Miss Lyyli Karoliina",17.0,2,True,0.0
+565,"SINCOCK, Miss Maude",20.0,2,True,0.0
+566,"SINKKONEN, Miss Anna",30.0,2,True,0.0
+567,"SJOSTEDT, Mr Ernst Adolf",59.0,2,False,1.0
+568,"SLAYTER, Miss Hilda Mary",30.0,2,True,0.0
+569,"SLEMEN, Mr Richard James",35.0,2,False,1.0
+570,"SMITH, Miss Marion Elsie",39.0,2,True,0.0
+571,"SOBEY, Mr Samuel James Hayden",25.0,2,False,1.0
+572,"STANTON, Mr Samuel Ward",42.0,2,False,1.0
+573,"STOKES, Mr Philip Joseph",25.0,2,False,1.0
+574,"SWANE, Mr George",26.0,2,False,1.0
+575,"SWEET, Mr George Frederick",14.0,2,False,0.0
+576,"TAYLOR, Mr Percy Cornelius",32.0,2,False,1.0
+577,"TOOMEY, Miss Ellen Mary",48.0,2,True,0.0
+578,"TROUPIANSKY, Mr Moses Aaron",23.0,2,False,1.0
+579,"TROUT, Mrs Jessie L.",26.0,2,True,0.0
+580,"TROUTT, Miss Edwina Celia",27.0,2,True,0.0
+581,"TURPIN, Mr William John Robert",29.0,2,False,1.0
+582,"TURPIN, Mrs Dorothy Ann",27.0,2,False,0.0
+583,"VEAL, Mr James",40.0,2,False,1.0
+584,"WALLCROFT, Miss Ellen ""Nellie""",36.0,2,True,0.0
+585,"WARE, Mr John James",45.0,2,False,1.0
+586,"WARE, Mr William Jeffery",23.0,2,False,1.0
+587,"WARE, Mrs Florence Louise",31.0,2,True,0.0
+588,"WATSON, Mr Ennis Hastings",15.0,2,False,1.0
+589,"WATT, Miss Robertha Josephine ""Bertha""",12.0,2,True,0.0
+590,"WATT, Mrs Elizabeth ""Bessie"" Inglis",40.0,2,True,0.0
+591,"WEBBER, Miss Susan",37.0,2,True,0.0
+592,"WEISZ, Mr Leopold",28.0,2,False,1.0
+593,"WEISZ, Mrs Mathilde Francoise",37.0,2,True,0.0
+594,"WELLS, Master Ralph Lester",2.0,2,True,1.0
+595,"WELLS, Miss Joan",4.0,2,True,0.0
+596,"WELLS, Mrs ""Addie"" Dart",29.0,2,True,0.0
+597,"WEST, Miss Barbara Joyce",0.0,2,True,0.0
+598,"WEST, Miss Constance Mirium",4.0,2,True,0.0
+599,"WEST, Mr Edwy Arthur",36.0,2,False,1.0
+600,"WEST, Mrs Ada Mary",33.0,2,True,0.0
+601,"WHEADON, Mr Edward H.",66.0,2,False,1.0
+602,"WHEELER, Mr Edwin Charles ""Fred""",24.0,2,False,0.0
+603,"WILHELMS, Mr Charles",32.0,2,True,1.0
+604,"WILKINSON, Mrs Elizabeth Anne",35.0,2,True,0.0
+605,"WILLIAMS, Mr Charles Eugene",23.0,2,True,1.0
+606,"WOODWARD, Mr John Wesley",32.0,2,False,1.0
+607,"WRIGHT, Miss Marion",26.0,2,True,0.0
+608,"YVOIS, Miss Henriette",24.0,2,False,0.0
+609,"ODAHL, Mr Nils Martin",23.0,3,False,1.0
+610,"ADAHL, Mr Mauritz Nils Martin",30.0,3,False,1.0
+611,"OHMAN, Miss Velin",22.0,3,True,0.0
+612,"ABBING, Mr Anthony",42.0,3,False,1.0
+613,"ABBOTT, Mr Eugene Joseph",14.0,3,False,1.0
+614,"ABBOTT, Mr Rossmore Edward",16.0,3,False,1.0
+615,"ABBOTT, Mrs Rhoda Mary 'Rosa'",39.0,3,True,0.0
+616,"ABELSETH, Miss Karen Marie",16.0,3,True,0.0
+617,"ABELSETH, Mr Olaus Jorgensen",25.0,3,True,1.0
+618,"ABRAHAMSSON, Mr Abraham August Johannes",20.0,3,True,1.0
+619,"ABRAHIM, Mrs Mary Sophie Halaut",18.0,3,True,0.0
+620,"ADAMS, Mr John",26.0,3,False,1.0
+621,"AHLIN, Mrs Johanna Persdotter",40.0,3,False,0.0
+622,"AKS, Master Frank Philip",0.8,3,True,0.0
+623,"AKS, Mrs Leah",18.0,3,True,0.0
+624,"ALBIMONA, Mr Nassef Cassem",26.0,3,True,1.0
+625,"ALEXANDER, Mr William",23.0,3,False,1.0
+626,"ALHOMAKI, Mr Ilmari Rudolf",19.0,3,False,1.0
+627,"ALI, Mr Ahmed",24.0,3,False,1.0
+628,"ALI, Mr William",25.0,3,False,1.0
+629,"ALLEN, Mr William Henry",35.0,3,False,1.0
+630,"ALLUM, Mr Owen George",15.0,3,False,1.0
+631,"ANDERSEN-JENSEN, Miss Carla Christine Nielsine",19.0,3,True,0.0
+632,"ANDERSEN, Mr Albert Karvin",33.0,3,False,1.0
+633,"ANDERSSON, Master Sigvard Harald Elias",4.0,3,False,1.0
+634,"ANDERSSON, Miss Ebba Iris Alfrida",6.0,3,False,0.0
+635,"ANDERSSON, Miss Ellis Anna Maria",2.0,3,False,0.0
+636,"ANDERSSON, Miss Erna Alexandra",17.0,3,True,0.0
+637,"ANDERSSON, Miss Ida Augusta Margareta",38.0,3,False,0.0
+638,"ANDERSSON, Miss Ingeborg Constanzia",9.0,3,False,0.0
+639,"ANDERSSON, Miss Sigrid Elisabeth",11.0,3,False,1.0
+640,"ANDERSSON, Mr Anders Johan",39.0,3,False,1.0
+641,"ANDERSSON, Mr Johan Samuel",26.0,3,False,1.0
+642,"ANDERSSON, Mrs Alfrida Konstantia Brogren",39.0,3,False,0.0
+643,"ANDREASSON, Mr Paul Edvin",20.0,3,False,1.0
+644,"ANGHELOFF, Mr Minko",26.0,3,False,1.0
+645,"ARNOLD-FRANCHI, Mr Josef",25.0,3,False,1.0
+646,"ARNOLD-FRANCHI, Mrs Josefine",18.0,3,False,0.0
+647,"ARONSSON, Mr Ernst Axel Algot",24.0,3,False,1.0
+648,"ASIM, Mr Adola",35.0,3,False,1.0
+649,"ASPLUND, Master Carl Edgar",5.0,3,False,1.0
+650,"ASPLUND, Master Clarence Gustaf Hugo",9.0,3,False,1.0
+651,"ASPLUND, Master Edvin Rojj Felix",3.0,3,True,1.0
+652,"ASPLUND, Master Filip Oscar",13.0,3,False,1.0
+653,"ASPLUND, Miss Lillian Gertrud",5.0,3,True,0.0
+654,"ASPLUND, Mr Carl Oscar Vilhelm Gustafsson",40.0,3,False,1.0
+655,"ASPLUND, Mr Johan Charles",23.0,3,True,1.0
+656,"ASPLUND, Mrs Selma Augusta Emilia",38.0,3,True,0.0
+657,"ASSAF, Mrs Mariana",45.0,3,True,0.0
+658,"ASSAM, Mr Ali",23.0,3,False,1.0
+659,"ATTALA, Mr Sleiman",27.0,3,False,1.0
+660,"ATTALAH, Miss Malake",17.0,3,False,0.0
+661,"AUGUSTSSON, Mr Albert",23.0,3,False,1.0
+662,"AYOUB DAHER, Miss Banoura",15.0,3,True,0.0
+663,"BACCOS, Mr Raffull",20.0,3,False,1.0
+664,"BACKSTROM, Mr Karl Alfred",32.0,3,False,1.0
+665,"BACKSTROM, Mrs Maria Mathilda",33.0,3,True,0.0
+666,"BACLINI, Miss Eugenie",3.0,3,True,0.0
+667,"BACLINI, Miss Helene Barbara",0.0,3,True,0.0
+668,"BACLINI, Miss Marie Catherine",5.0,3,True,0.0
+669,"BACLINI, Mrs Latifa",24.0,3,True,0.0
+670,"BADMAN, Miss Emily Louisa",18.0,3,True,0.0
+671,"BADT, Mr Mohamed",40.0,3,False,1.0
+672,"BALKIC, Mr Cerin",26.0,3,False,1.0
+673,"BANSKI, Mrs Mara",31.0,3,True,0.0
+674,"BARBARA, Miss Saiide",18.0,3,False,0.0
+675,"BARBARA, Mrs Catherine David",45.0,3,False,0.0
+676,"BARRY, Miss Julia",26.0,3,False,0.0
+677,"BARTON, Mr David John",22.0,3,False,1.0
+678,"BEAVAN, Mr William Thomas",18.0,3,False,1.0
+679,"BENGTSSON, Mr Johan Viktor",26.0,3,False,1.0
+680,"BERGLUND, Mr Karl Ivar Sven",22.0,3,False,1.0
+681,"BETROS, Mr Tannous",20.0,3,False,1.0
+682,"BING, Mr Lee",32.0,3,True,1.0
+683,"BIRKELAND, Mr Hans Martin Monsen",21.0,3,False,1.0
+684,"BJORKLUND, Mr Ernst Herbert",18.0,3,False,1.0
+685,"BOSTANDYEFF, Mr Guentcho",26.0,3,False,1.0
+686,"BOULOS, Master Akar",9.0,3,False,1.0
+687,"BOULOS, Miss Nourelain",7.0,3,False,0.0
+688,"BOULOS, Mrs Sultana",40.0,3,False,0.0
+689,"BOURKE, Miss Mary",40.0,3,False,0.0
+690,"BOURKE, Mr John",42.0,3,False,1.0
+691,"BOURKE, Mrs Catherine",32.0,3,False,0.0
+692,"BOWEN, Mr David John ""Dai""",26.0,3,False,1.0
+693,"BRADLEY, Miss Bridget Delia",22.0,3,True,0.0
+694,"BRAF, Miss Elin Ester Maria",20.0,3,False,0.0
+695,"BRAUND, Mr Lewis Richard",29.0,3,False,1.0
+696,"BRAUND, Mr Owen Harris",22.0,3,False,1.0
+697,"BROBECK, Mr Karl Rudolf",22.0,3,False,1.0
+698,"BROCKLEBANK, Mr William Alfred",35.0,3,False,1.0
+699,"BUCKLEY, Miss Katherine",22.0,3,False,0.0
+700,"BUCKLEY, Mr Daniel",21.0,3,True,1.0
+701,"BURKE, Mr Jeremiah",19.0,3,False,1.0
+702,"BURNS, Miss Mary Delia",17.0,3,False,0.0
+703,"CACIC, Miss Manda",21.0,3,False,0.0
+704,"CACIC, Miss Marija",30.0,3,False,0.0
+705,"CACIC, Mr Jego Grga",18.0,3,False,1.0
+706,"CACIC, Mr Luka",38.0,3,False,1.0
+707,"CALIC, Mr Jovo",17.0,3,False,1.0
+708,"CALIC, Mr Petar",17.0,3,False,1.0
+709,"CANAVAN, Miss Mary",22.0,3,False,0.0
+710,"CANAVAN, Mr Patrick",21.0,3,False,1.0
+711,"CANN, Mr Ernest Charles",21.0,3,False,1.0
+712,"CARAM, Mr Joseph",28.0,3,False,1.0
+713,"CARAM, Mrs Maria Elias",18.0,3,False,0.0
+714,"CARLSSON, Mr August Sigfrid",28.0,3,False,1.0
+715,"CARLSSON, Mr Carl Robert",24.0,3,False,1.0
+716,"CARR, Miss Jane",45.0,3,False,0.0
+717,"CARVER, Mr Alfred John",28.0,3,False,1.0
+718,"CELOTTI, Mr Francesco",24.0,3,False,0.0
+719,"CHARTERS, Mr David",20.0,3,False,1.0
+720,"CHEHAB/SHIHAB, Mr Emir Farres",29.0,3,False,1.0
+721,"CHIP, Mr Chang",32.0,3,True,1.0
+722,"CHRISTMANN, Mr Emil",29.0,3,False,1.0
+723,"CHRONOPOULOS, Mr Apostolos M.",26.0,3,False,1.0
+724,"CHRONOPOULOS, Mr Dimitrios M.",21.0,3,False,1.0
+725,"COELHO, Mr Domingos Fernandeo",20.0,3,False,1.0
+726,"COHEN, Mr Gurshon ""Gus""",18.0,3,True,1.0
+727,"COLBERT, Mr Patrick",24.0,3,False,1.0
+728,"COLEFF, Mr Satio",24.0,3,False,1.0
+729,"COLTCHEFF, Mr Peju",36.0,3,False,1.0
+730,"CONLON, Mr Thomas Henry",31.0,3,False,1.0
+731,"CONNAGHTON, Mr Michael",31.0,3,False,1.0
+732,"CONNOLLY, Miss Kate",35.0,3,False,0.0
+733,"CONNOLLY, Miss Kate",23.0,3,True,0.0
+734,"CONNORS, Mr Patrick",66.0,3,False,1.0
+735,"COOK, Mr Jacob",43.0,3,False,1.0
+736,"COR, Mr Bartol",35.0,3,False,1.0
+737,"COR, Mr Ivan",27.0,3,False,1.0
+738,"COR, Mr Liudevit",19.0,3,False,1.0
+739,"CORN, Mr Harry",30.0,3,False,1.0
+740,"CORR, Miss Helen",16.0,3,True,0.0
+741,"COUTTS, Master Neville Leslie",3.0,3,True,1.0
+742,"COUTTS, Master William Loch ""Willie""",9.0,3,True,1.0
+743,"COUTTS, Mrs Winnie ""Minnie""",36.0,3,True,0.0
+744,"COXON, Mr Daniel",59.0,3,False,1.0
+745,"CREASE, Mr Ernest James",19.0,3,False,1.0
+746,"CRIBB, Miss Laura Mae",16.0,3,True,0.0
+747,"CRIBB, Mr John Hatfield",44.0,3,False,1.0
+748,"CULUMOVIC, Mr Jeso",17.0,3,False,1.0
+749,"DAHER, Mr Tannous",28.0,3,False,1.0
+750,"DAHL, Mr Charles Edward",45.0,3,True,1.0
+751,"DAHLBERG, Miss Gerda Ulrika",22.0,3,False,0.0
+752,"DAKIC, Mr Branko",19.0,3,False,1.0
+753,"DALY, Miss Margaret Marcella ""Maggie""",30.0,3,True,0.0
+754,"DALY, Mr Eugene Patrick",29.0,3,True,1.0
+755,"DANBOM, Master Gilbert Sigvard Emanuel",0.0,3,False,1.0
+756,"DANBOM, Mr Ernst Gilbert",34.0,3,False,1.0
+757,"DANBOM, Mrs Anna Sigrid Maria",28.0,3,False,0.0
+758,"DANOFF, Mr Yoto",27.0,3,False,1.0
+759,"DANTCHEFF, Mr Ristiu",25.0,3,False,1.0
+760,"DAVIES, Mr Alfred J.",24.0,3,False,1.0
+761,"DAVIES, Mr Evan",22.0,3,False,1.0
+762,"DAVIES, Mr John Samuel",21.0,3,False,1.0
+763,"DAVIES, Mr Joseph",17.0,3,False,1.0
+764,"DAVISON, Mr Thomas Henry",32.0,3,False,1.0
+765,"DAVISON, Mrs Mary E.",34.0,3,True,0.0
+766,"DE MESSEMAEKER, Mr Guillaume Joseph",36.0,3,True,1.0
+767,"DE MESSEMAEKER, Mrs Anna",36.0,3,True,0.0
+768,"DE MULDER, Mr Theodoor",30.0,3,True,1.0
+769,"DE PELSMAEKER, Mr Alfons",16.0,3,False,1.0
+770,"DEAN, Master Bertram Vere",1.0,3,True,1.0
+771,"DEAN, Miss Elizabeth Gladys 'Millvina'",0.0,3,True,0.0
+772,"DEAN, Mr Bertram Frank",25.0,3,False,0.0
+773,"DEAN, Mrs Eva Georgetta",32.0,3,True,0.0
+774,"DELALIC, Mr Redjo",25.0,3,False,1.0
+775,"DENKOFF, Mr Mitto",30.0,3,False,1.0
+776,"DENNIS, Mr Samuel",22.0,3,False,1.0
+777,"DENNIS, Mr William",26.0,3,False,1.0
+778,"DEVANEY, Miss Margaret Delia",19.0,3,True,0.0
+779,"DIKA, Mr Mirko",17.0,3,False,1.0
+780,"DIMIC, Mr Jovan",42.0,3,False,1.0
+781,"DINTCHEFF, Mr Valtcho",43.0,3,False,1.0
+782,"DONOHOE, Miss Bridget",21.0,3,False,0.0
+783,"DOOLEY, Mr Patrick",38.0,3,False,1.0
+784,"DORKING, Mr Edward Arthur",18.0,3,True,1.0
+785,"DOUGHERTY, Mr William John",22.0,3,False,1.0
+786,"DOWDELL, Miss Elizabeth",31.0,3,True,0.0
+787,"DOYLE, Miss Elizabeth",24.0,3,False,0.0
+788,"DRAZENOVIC, Mr Jozef",33.0,3,False,1.0
+789,"DROPKIN, Miss Jennie",24.0,3,True,0.0
+790,"DUQUEMIN, Mr Joseph Pierre",19.0,3,True,1.0
+791,"DWAN, Mr Frank",65.0,3,False,0.0
+792,"DYKER, Mr Adolf Fredrik",23.0,3,False,0.0
+793,"DYKER, Mrs Anna Elisabeth Judith",22.0,3,True,0.0
+794,"EDVARDSSON, Mr Gustaf Hjalmar",18.0,3,False,1.0
+795,"EKLUND, Mr Hans Linus",16.0,3,False,1.0
+796,"EKSTROM, Mr Johan",45.0,3,False,1.0
+797,"ELIAS NASRALLAH, Mr Tannous",22.0,3,False,1.0
+798,"ELIAS, Mr Dibo",29.0,3,False,1.0
+799,"ELIAS, Mr Joseph jr.",15.0,3,False,1.0
+800,"ELSBURY, Mr William James",47.0,3,False,1.0
+801,"EMANUEL, Miss Virginia Ethel",5.0,3,True,0.0
+802,"ESTANISLAU, Mr Manuel GonÃ Ã¶Ã¼alves",37.0,3,False,1.0
+803,"EVERETT, Mr Thomas James",39.0,3,False,1.0
+804,"FARRELL, Mr James ""Jim""",25.0,3,False,1.0
+805,"FINOLI, Mr Luigi",34.0,3,True,1.0
+806,"FISCHER, Mr Eberhard Thelander",18.0,3,False,1.0
+807,"FLEMING, Miss Honora",22.0,3,False,0.0
+808,"FLYNN, Mr James",28.0,3,False,1.0
+809,"FLYNN, Mr John",42.0,3,False,1.0
+810,"FOLEY, Mr Joseph",19.0,3,False,1.0
+811,"FOLEY, Mr William",20.0,3,False,1.0
+812,"FOO, Mr Choong",32.0,3,True,1.0
+813,"FORD, Miss Dollina Margaret",20.0,3,False,0.0
+814,"FORD, Miss Robina Maggie",7.0,3,False,0.0
+815,"FORD, Mr Arthur",22.0,3,False,1.0
+816,"FORD, Mr Edward Watson",18.0,3,False,1.0
+817,"FORD, Mr William Neal Thomas",16.0,3,False,1.0
+818,"FORD, Mrs Margaret Ann Watson",48.0,3,False,0.0
+819,"FOX, Mr Patrick",28.0,3,False,1.0
+820,"FRANKLIN, Mr Charles (""Charles Fardon"")",38.0,3,False,1.0
+821,"GALLAGHER, Mr Martin",29.0,3,False,1.0
+822,"GARFIRTH, Mr John",21.0,3,False,1.0
+823,"GEORGE/JOSEPH, Mrs Shawneene",38.0,3,True,0.0
+824,"GERIOS THAMAH, Mr Assaf",21.0,3,False,1.0
+826,"GILINSKI, Mr Eliezer",22.0,3,False,1.0
+827,"GILNAGH, Miss Mary Katherine ""Katie""",17.0,3,True,0.0
+828,"GLYNN, Miss Mary Agatha",19.0,3,True,0.0
+829,"GOLDSMITH, Master Frank John William",9.0,3,True,1.0
+830,"GOLDSMITH, Mr Frank John",33.0,3,False,1.0
+831,"GOLDSMITH, Mr Nathan",41.0,3,False,1.0
+832,"GOLDSMITH, Mrs Emily Alice",31.0,3,True,0.0
+833,"GOODWIN, Master Harold Victor",9.0,3,False,1.0
+834,"GOODWIN, Master Sidney Leslie",1.0,3,False,1.0
+835,"GOODWIN, Master William Frederick",11.0,3,False,0.0
+836,"GOODWIN, Miss Jessie Allis",10.0,3,False,0.0
+837,"GOODWIN, Miss Lillian Amy",16.0,3,False,0.0
+838,"GOODWIN, Mr Charles Edward",14.0,3,False,1.0
+839,"GOODWIN, Mr Frederick Joseph",42.0,3,False,0.0
+840,"GOODWIN, Mrs Augusta",43.0,3,False,0.0
+841,"GRONNESTAD, Mr Daniel Danielsen",32.0,3,False,1.0
+842,"GREEN, Mr George Henry",40.0,3,False,1.0
+843,"GUEST, Mr Robert",23.0,3,False,1.0
+844,"GUSTAFSSON, Mr Alfred Ossian",19.0,3,False,1.0
+845,"GUSTAFSSON, Mr Anders Vilhelm",37.0,3,False,1.0
+846,"GUSTAFSSON, Mr Johan Birger",28.0,3,False,1.0
+847,"GUSTAFSSON, Mr Karl Gideon",19.0,3,False,1.0
+848,"HAAS, Miss Aloisia",24.0,3,False,0.0
+849,"HAGLAND, Mr Ingvald Olai Olsen",28.0,3,False,1.0
+850,"HAGLAND, Mr Konrad Mathias Reiersen",19.0,3,False,1.0
+851,"HAKKARAINEN, Mr Pekka Pietari",28.0,3,False,1.0
+852,"HAKKARAINEN, Mrs Elin Matilda",24.0,3,True,0.0
+853,"HAMPE, Mr Leon Jerome",19.0,3,False,1.0
+854,"HANNA, Mr Boulos",18.0,3,False,1.0
+855,"HANNA, Mr Mansour",35.0,3,False,1.0
+856,"HANNAH, Mr Borak (""Hannah Assi Borah"")",27.0,3,True,1.0
+857,"HANSEN, Mr Claus Peter",41.0,3,False,1.0
+858,"HANSEN, Mr Henrik Juul",26.0,3,False,1.0
+859,"HANSEN, Mr Henry Damsgaard",21.0,3,False,1.0
+860,"HANSEN, Mrs Jennie Louise",45.0,3,True,0.0
+861,"HARGADON, Miss Catherine ""Kate""",17.0,3,False,0.0
+862,"HARKNETT, Miss Alice Phoebe",21.0,3,False,0.0
+863,"HART, Mr Henry",28.0,3,False,1.0
+864,"HASSAN ABILMONA, Mr Houssein Mohamed",11.0,3,False,1.0
+865,"HEALY, Miss Hanora ""Nora""",29.0,3,True,0.0
+866,"HEDMAN, Mr Oskar Arvid",27.0,3,True,1.0
+867,"HEE, Mr Ling",24.0,3,True,1.0
+868,"HEGARTY, Miss Hanora ""Nora""",18.0,3,False,0.0
+869,"HEIKKINEN, Miss Laina",26.0,3,True,0.0
+870,"HEININEN, Miss Wendla Maria",23.0,3,False,0.0
+871,"HELLSTROM, Miss Hilda Maria",22.0,3,True,0.0
+872,"HENDEKOVIC, Mr Ignjac",28.0,3,False,1.0
+873,"HENRIKSSON, Miss Jenny Lovisa",28.0,3,False,0.0
+874,"HENRY, Miss Bridget Delia",21.0,3,False,0.0
+875,"HIRVONEN, Miss Hildur Elisabeth",2.0,3,True,0.0
+876,"HIRVONEN, Mrs Helga Elisabeth Lindqvist",22.0,3,True,0.0
+877,"HOLM, Mr John Fredrik Alexander",43.0,3,False,1.0
+878,"HOLTHEN, Mr Johan Martin",28.0,3,False,1.0
+879,"HONKANEN, Miss Eliina",27.0,3,True,0.0
+880,"HORGAN, Mr John",22.0,3,False,1.0
+881,"HOWARD, Miss May Elizabeth",27.0,3,True,0.0
+882,"HUMBLEN, Mr Adolf Mathias Nicolai Olsen",42.0,3,False,1.0
+883,"HYMAN, Mr Abraham Joseph",34.0,3,True,1.0
+884,"IBRAHIM SHAWAH, Mr Yousseff",33.0,3,False,1.0
+885,"ILIEFF, Mr Ylio",32.0,3,False,1.0
+886,"ILMAKANGAS, Miss Ida Livija",27.0,3,False,0.0
+887,"ILMAKANGAS, Miss Pieta Sofia",25.0,3,False,0.0
+888,"IVANOFF, Mr Kanio",20.0,3,False,1.0
+889,"JONSSON, Mr Nils Hilding",27.0,3,False,1.0
+890,"JABBUR (ZABOUR), Miss Hileni",16.0,3,False,0.0
+891,"JABBUR (ZABOUR), Miss Thamine",19.0,3,False,0.0
+892,"JALCEVAC, Mr Ivan",29.0,3,True,1.0
+893,"JANSSON, Mr Carl Olof",21.0,3,True,1.0
+894,"JARDIM, Mr Jose Neto",21.0,3,False,1.0
+895,"JENSEN, Mr Hans Peder",20.0,3,False,1.0
+896,"JENSEN, Mr Niels Peder (""Rasmus"")",48.0,3,False,1.0
+897,"JENSEN, Mr Svend Lauritz",17.0,3,False,1.0
+898,"JERMYN, Miss Annie Jane",26.0,3,True,0.0
+899,"JOHANNESEN, Mr Bernt Johannes",29.0,3,True,1.0
+900,"JOHANSON, Mr Jakob Alfred",34.0,3,False,1.0
+901,"JOHANSSON PALMQUIST, Mr Oskar Leander",26.0,3,True,1.0
+902,"JOHANSSON, Mr Erik",22.0,3,False,1.0
+903,"JOHANSSON, Mr Gustaf Joel",33.0,3,False,1.0
+904,"JOHANSSON, Mr Karl Johan",31.0,3,False,1.0
+905,"JOHANSSON, Mr Nils",29.0,3,False,1.0
+906,"JOHNSON, Master Harold Theodor",4.0,3,True,1.0
+907,"JOHNSON, Miss Eleanor Ileen",1.0,3,True,0.0
+908,"JOHNSON, Mr Alfred",49.0,3,False,1.0
+909,"JOHNSON, Mr Malkolm Joackim",33.0,3,False,1.0
+910,"JOHNSON, Mr William Cahoone Jr.",19.0,3,False,1.0
+911,"JOHNSON, Mrs Elisabeth Vilhelmina",26.0,3,True,0.0
+912,"JOHNSTON, Master William Andrew",8.0,3,False,1.0
+913,"JOHNSTON, Miss Catherine Nellie",7.0,3,False,0.0
+914,"JOHNSTON, Mr Andrew Emslie",35.0,3,False,1.0
+915,"JOHNSTON, Mrs Eliza",34.0,3,False,0.0
+916,"JONKOFF, Mr Lalio",23.0,3,False,1.0
+917,"JONSSON, Mr Carl",25.0,3,True,1.0
+918,"JOSEPH (SHAHIN), Mr Elias",39.0,3,False,1.0
+919,"JUSSILA, Miss Katriina",20.0,3,False,0.0
+920,"JUSSILA, Miss Mari Aina",21.0,3,False,0.0
+921,"JUSSILA, Mr Eiriik",32.0,3,True,1.0
+922,"KALLIO, Mr Nikolai Erland",17.0,3,False,1.0
+923,"KALVIK, Mr Johannes Halvorsen",21.0,3,False,1.0
+924,"KARAJIC, Mr Milan",30.0,3,False,1.0
+925,"KARLSSON, Mr Einar Gervasius",21.0,3,True,1.0
+926,"KARLSSON, Mr Julius Konrad Eugen",33.0,3,False,1.0
+927,"KARLSSON, Mr Nils August",22.0,3,False,1.0
+928,"KARUN, Miss Manca",4.0,3,True,0.0
+929,"KARUN, Mr Franz",39.0,3,True,0.0
+930,"KASSEM HOUSSEIN, Mr Fared",18.0,3,False,1.0
+931,"KATAVELOS, Mr Vasilios G.",19.0,3,False,1.0
+932,"KEANE, Mr Andrew ""Andy""",23.0,3,False,1.0
+933,"KEEFE, Mr Arthur",39.0,3,False,1.0
+934,"KELLY, Miss Anna Katherine",20.0,3,True,0.0
+935,"KELLY, Miss Mary",22.0,3,True,0.0
+936,"KELLY, Mr James",44.0,3,False,1.0
+937,"KELLY, Mr James",19.0,3,False,1.0
+938,"KENNEDY, Mr John",24.0,3,True,1.0
+939,"KHALIL, Mr Betros",25.0,3,False,1.0
+940,"KHALIL, Mrs Zahie ""Maria""",20.0,3,False,0.0
+941,"KIERNAN, Mr John",25.0,3,False,1.0
+942,"KIERNAN, Mr Philip",22.0,3,False,1.0
+943,"KILGANNON, Mr Thomas",22.0,3,False,1.0
+944,"KINK-HEILMANN, Miss Luise Gretchen",4.0,3,True,0.0
+945,"KINK-HEILMANN, Mrs Luise",26.0,3,True,0.0
+946,"KINK, Miss Maria",22.0,3,False,0.0
+947,"KINK, Mr Anton",29.0,3,True,1.0
+948,"KINK, Mr Vincenz",26.0,3,False,1.0
+949,"KLASEN, Miss Gertrud Emilia",1.0,3,False,0.0
+950,"KLASEN, Mr Klas Albin",18.0,3,False,1.0
+951,"KLASEN, Mrs Hulda Kristina Eugenia",36.0,3,False,0.0
+953,"KREKORIAN, Mr Neshan",25.0,3,True,1.0
+954,"KUTSCHER (LITHMAN), Mr Simon",26.0,3,False,1.0
+955,"LAHOUD ISHAQ MOWAD, Mr Sarkis",30.0,3,False,1.0
+956,"LAITINEN, Miss Kristina Sofia",37.0,3,False,0.0
+957,"LALEFF, Mr Kristo",23.0,3,False,1.0
+958,"LAM, Mr Ali",38.0,3,True,1.0
+959,"LAM, Mr Len",23.0,3,False,1.0
+960,"LANDERGREN, Miss Aurora Adelia",22.0,3,True,0.0
+961,"LANE, Mr Patrick",16.0,3,False,1.0
+962,"LANG, Mr Fang",32.0,3,True,1.0
+963,"LARSSON-RONDBERG, Mr Edvard A.",22.0,3,False,1.0
+964,"LARSSON, Mr August Viktor",29.0,3,False,1.0
+965,"LARSSON, Mr Bengt Edvin",29.0,3,False,1.0
+966,"LEENI, Mr Fahim (""Philip Zenni"")",22.0,3,True,1.0
+967,"LEFEBVRE, Master Henry",5.0,3,False,1.0
+968,"LEFEBVRE, Miss Ida",3.0,3,False,0.0
+969,"LEFEBVRE, Miss Jeannie",8.0,3,False,0.0
+970,"LEFEBVRE, Miss Mathilde",12.0,3,False,0.0
+971,"LEFEBVRE, Mrs Frances Marie",40.0,3,False,0.0
+972,"LEINONEN, Mr Antti Gustaf",32.0,3,False,1.0
+973,"LENNON, Mr Denis",20.0,3,False,1.0
+974,"LEONARD, Mr Lionel",36.0,3,False,1.0
+975,"LESTER, Mr James",26.0,3,False,1.0
+976,"LIEVENS, Mr Rene Aime",24.0,3,False,1.0
+977,"LINDAHL, Miss Agda Thorilda Viktoria",25.0,3,False,0.0
+978,"LINDBLOM, Miss Augusta Charlotta",45.0,3,False,0.0
+979,"LINDELL, Mr Edvard Bengtsson",36.0,3,False,1.0
+980,"LINDELL, Mrs Elin Gerda",30.0,3,False,0.0
+981,"LINDQVIST, Mr Eino William",20.0,3,True,1.0
+982,"LINEHAN, Mr Michael",21.0,3,False,1.0
+983,"LING, Mr Lee",28.0,3,False,1.0
+984,"LINHART, Mr Wenzel",27.0,3,False,1.0
+985,"LIVSHIN, Mr David (Abraham Harmer)",25.0,3,False,1.0
+986,"LOBB, Mr William Arthur",30.0,3,False,1.0
+987,"LOBB, Mrs Cordelia K.",26.0,3,False,0.0
+988,"LOCKYER, Mr Edward Thomas",21.0,3,False,1.0
+989,"LOVELL, Mr John Hall (""Henry"")",20.0,3,False,1.0
+990,"LULIC, Mr Nikola",29.0,3,True,1.0
+991,"LUNDAHL, Mr Johan Svensson",51.0,3,False,1.0
+992,"LUNDSTROM, Mr Thure Edvin",32.0,3,True,1.0
+993,"LYMPEROPOULUS, Mr Panagiotis K.",30.0,3,False,1.0
+994,"LYNTAKOFF, Mr Stanko",44.0,3,False,1.0
+995,MAENPAA Mr Matti Alexanteri,22.0,3,False,1.0
+996,"MAKINEN, Mr Kalle Edvard",29.0,3,False,1.0
+997,"MACKAY, Mr George William",20.0,3,False,1.0
+998,"MADIGAN, Miss Margaret ""Maggie""",21.0,3,True,0.0
+999,"MADSEN, Mr Fridtjof Arne",24.0,3,True,0.0
+1000,"MAHON, Miss Bridget Delia",20.0,3,False,0.0
+1001,"MAISNER, Mr Simon",34.0,3,False,1.0
+1002,"MAMEE, Mr Hanna",20.0,3,True,1.0
+1003,"MANGAN, Miss Mary",32.0,3,False,0.0
+1004,"MANNION, Miss Margaret",28.0,3,True,0.0
+1005,"MARDIROSIAN, Mr Sarkis",25.0,3,False,1.0
+1006,"MARINKO, Mr Dmitri",23.0,3,False,1.0
+1007,"MARKOFF, Mr Marin",35.0,3,False,1.0
+1008,"MARKUN, Mr Johann",33.0,3,False,1.0
+1009,"MATINOFF, Mr Nicola",30.0,3,False,1.0
+1010,"MCCARTHY, Miss Catherine ""Katie""",24.0,3,True,0.0
+1011,"MCCORMACK, Mr Thomas Joseph",19.0,3,True,1.0
+1012,"MCCOY, Miss Agnes",29.0,3,True,0.0
+1013,"MCCOY, Miss Alicia",26.0,3,True,0.0
+1014,"MCCOY, Mr Bernard",24.0,3,True,1.0
+1015,"MCDERMOTT, Miss Bridget Delia",31.0,3,True,0.0
+1016,"MCEVOY, Mr Michael",19.0,3,False,1.0
+1017,"MCGOVERN, Ms Mary",22.0,3,True,0.0
+1018,"MCGOWAN, Miss Anna ""Annie""",17.0,3,True,0.0
+1019,"MCGOWAN, Miss Katherine",42.0,3,False,0.0
+1020,"MCMAHON, Mr Martin",20.0,3,False,1.0
+1021,"MCNAMEE, Mr Neal",27.0,3,False,1.0
+1022,"MCNAMEE, Mrs Eileen",19.0,3,False,0.0
+1023,"MCNEILL, Miss Bridget",27.0,3,False,0.0
+1024,"MEANWELL, Mrs Marian",63.0,3,False,0.0
+1025,"MEEHON, Mr John",22.0,3,False,1.0
+1026,"MEEK, Mrs Annie Louise Rowley",31.0,3,False,0.0
+1027,"MEO (MARTINO), Mr Alfonzo",48.0,3,False,1.0
+1028,"MERNAGH, Mr Robert",28.0,3,False,1.0
+1029,"MIDTSJO, Mr Karl Albert",21.0,3,True,1.0
+1030,"MIHOFF, Mr Stoytcho",28.0,3,False,1.0
+1031,"MILES, Mr Frank",23.0,3,False,0.0
+1032,"MINEFF, Mr Ivan",24.0,3,False,1.0
+1033,"MINKOFF, Mr Lazar",21.0,3,False,1.0
+1034,"MITKOFF, Mr Mito",23.0,3,False,1.0
+1035,"MOCKLER, Miss Ellen Mary",23.0,3,True,0.0
+1036,"MOEN, Mr Sigurd Hansen",27.0,3,False,1.0
+1037,"MOOR, Master Meier",7.0,3,True,1.0
+1038,"MOOR, Mrs Beila",29.0,3,True,0.0
+1039,"MOORE, Mr Leonard Charles",19.0,3,False,1.0
+1040,"MORAN, Miss Bertha Bridget",28.0,3,True,0.0
+1041,"MORAN, Mr Daniel James",27.0,3,False,1.0
+1042,"MORLEY, Mr William",34.0,3,False,1.0
+1043,"MORROW, Mr Thomas Rowan",30.0,3,False,1.0
+1044,"MOSS, Mr Albert Johan",29.0,3,True,1.0
+1045,"MOUBAREK, Master Gerios (""George _"")",7.0,3,True,1.0
+1046,"MOUBAREK, Master Halim Gonios (""William George"")",4.0,3,True,1.0
+1047,"MOUBAREK, Mrs Omine",24.0,3,True,0.0
+1048,"MOUSSA, Mrs Mantoura Boulos",35.0,3,True,0.0
+1049,"MOUSSELMANI, Mrs Fatima",22.0,3,True,0.0
+1050,"MOUTAL, Mr Rahamin Haim",28.0,3,False,1.0
+1051,"MULLEN, Miss Katherine ""Katie""",21.0,3,True,0.0
+1052,"MULLIN, Miss Mary (_Lennon)",18.0,3,False,0.0
+1053,"MULVIHILL, Miss Bridget Elizabeth",25.0,3,True,0.0
+1054,"MURDLIN, Mr Joseph",22.0,3,False,1.0
+1055,"MURPHY, Miss Catherine ""Kate""",18.0,3,True,0.0
+1056,"MURPHY, Miss Margaret Jane ""Mary"" ""Maggie""",25.0,3,True,0.0
+1057,"MURPHY, Miss Nora",34.0,3,True,0.0
+1058,"MYHRMAN, Mr Pehr Fabian Oliver Malkolm",18.0,3,False,1.0
+1059,"NAIDENOFF, Mr Penko",22.0,3,False,1.0
+1060,"NAJIB KIAMIE, Miss Adele ""Jane""",15.0,3,True,0.0
+1061,"NAKHLI, Mr Toufik",17.0,3,False,1.0
+1062,"NAKID, Miss Maria",1.0,3,True,0.0
+1063,"NAKID, Mr Sahid",20.0,3,True,1.0
+1064,"NAKID, Mrs Waika ""Mary""",19.0,3,True,0.0
+1065,"NANCARROW, Mr William Henry",34.0,3,False,1.0
+1066,"NANKOFF, Mr Minko",32.0,3,False,1.0
+1067,"NASR ALMA, Mr Mustafa",20.0,3,False,1.0
+1068,"NASSR RIZQ, Mr Saade",20.0,3,False,1.0
+1069,"NAUGHTON, Miss Hannah",21.0,3,False,0.0
+1070,"NENKOFF, Mr Christo",22.0,3,False,1.0
+1071,"NICOLA-YARRED, Master Elias (""Louis Garrett"")",11.0,3,True,1.0
+1072,"NICOLA-YARRED, Miss Jamila (""Amelia Garrett"")",14.0,3,True,0.0
+1073,"NIEMINEN, Miss Manta Josefina",29.0,3,False,0.0
+1074,"NIKLASSON, Mr Samuel",28.0,3,False,1.0
+1075,"NILSSON, Miss Berta Olivia",18.0,3,True,0.0
+1076,"NILSSON, Miss Helmina Josefina",26.0,3,True,0.0
+1077,"NILSSON, Mr August Ferdinand",21.0,3,False,1.0
+1078,"NIRVA, Mr Iisakki Antino",41.0,3,False,1.0
+1079,"NISKANEN, Mr Juha",39.0,3,True,1.0
+1080,"NOFAL, Mr Mansouer",20.0,3,False,1.0
+1081,"NOSWORTHY, Mr Richard Cater",21.0,3,False,1.0
+1082,"NYSTEN, Miss Anna Sofia",22.0,3,True,0.0
+1083,"NYSVEEN, Mr Johan Hansen",60.0,3,False,1.0
+1084,"O'BRIEN, Mr Thomas",27.0,3,False,1.0
+1085,"O'BRIEN, Mr Timothy",21.0,3,False,1.0
+1086,"O'BRIEN, Mrs Johanna ""Hannah""",26.0,3,True,0.0
+1087,"O'CONNELL, Mr Patrick Denis",17.0,3,False,1.0
+1088,"O'CONNOR, Mr Maurice",16.0,3,False,1.0
+1089,"O'CONNOR, Mr Patrick",23.0,3,False,1.0
+1090,"O'DRISCOLL, Miss Bridget",27.0,3,True,0.0
+1091,"O'DWYER, Miss Ellen ""Nellie""",25.0,3,True,0.0
+1092,"O'KEEFE, Mr Patrick",21.0,3,True,1.0
+1093,"O'LEARY, Miss Hanora ""Nora""",16.0,3,True,0.0
+1094,"O'SULLIVAN, Miss Bridget Mary",21.0,3,False,0.0
+1095,"OLSEN, Master Artur Karl",9.0,3,True,1.0
+1096,"OLSEN, Mr Henry Margido",28.0,3,False,1.0
+1097,"OLSEN, Mr Karl Siegwart Andreas",42.0,3,False,1.0
+1098,"OLSEN, Mr Ole Martin",27.0,3,False,1.0
+1099,"OLSSON, Miss Elina",31.0,3,False,0.0
+1100,"OLSSON, Mr Nils Johan Geransson",28.0,3,False,1.0
+1101,"OLSSON, Mr Oscar Wilhelm",32.0,3,True,1.0
+1102,"OLSVIGEN, Mr Thor Anderson",20.0,3,False,1.0
+1103,"ORESKOVIC, Miss Jelka",23.0,3,False,0.0
+1104,"ORESKOVIC, Miss Marija",20.0,3,False,0.0
+1105,"ORESKOVIC, Mr Luka",20.0,3,False,1.0
+1106,"OSEN, Mr Olaf Elon",16.0,3,False,1.0
+1107,"PALSSON, Master Gusta Leonard",2.0,3,False,1.0
+1108,"PALSSON, Master Paul Folke",6.0,3,False,1.0
+1109,"PALSSON, Miss Stina Viola",3.0,3,False,0.0
+1110,"PALSSON, Miss Torborg Danira",8.0,3,False,0.0
+1111,"PALSSON, Mrs Alma Cornelia",29.0,3,False,0.0
+1112,"PANULA, Master Eino Viljam",1.0,3,False,1.0
+1113,"PANULA, Master Jaako Arnold",14.0,3,False,1.0
+1114,"PANULA, Master Juha Niilo",7.0,3,False,1.0
+1115,"PANULA, Master Urho Abraham",2.0,3,False,1.0
+1116,"PANULA, Mr Ernesti Arvid",16.0,3,False,1.0
+1117,"PANULA, Mrs Maija Emelia Abrahamintytar",41.0,3,False,0.0
+1118,"PASIC, Mr Jakob",21.0,3,False,1.0
+1119,"PATCHETT, Mr George",19.0,3,False,1.0
+1120,"PAVLOVIC, Mr Stefo",32.0,3,False,1.0
+1121,"PEACOCK, Master Alfred Edward",0.0,3,False,1.0
+1122,"PEACOCK, Miss Treasteall",3.0,3,False,0.0
+1123,"PEACOCK, Mrs Edith",26.0,3,False,0.0
+1124,"PEARCE, Mr Ernest",32.0,3,False,1.0
+1125,"PEDERSEN, Mr Olaf",28.0,3,False,1.0
+1126,"PEDUZZI, Mr Giuseppe",24.0,3,False,1.0
+1127,"PEKONIEMI, Mr Edvard",21.0,3,False,1.0
+1128,"PELTOMAKI, Mr Nikolai Johannes",25.0,3,False,1.0
+1129,"PERKIN, Mr John Henry",22.0,3,False,1.0
+1130,"PERSSON, Mr Ernst Ulrik",25.0,3,True,1.0
+1131,"PETER / JOSEPH, Master Michael J. (""Michael Joseph"")",4.0,3,True,1.0
+1132,"PETER / JOSEPH, Miss Anna (""Mary Joseph"")",2.0,3,True,0.0
+1133,"PETER / JOSEPH, Mrs Catherine",24.0,3,True,0.0
+1134,"PETERS, Miss Katie",26.0,3,False,0.0
+1135,"PETERSEN, Mr Marius",24.0,3,False,1.0
+1136,"PETRANEC, Miss Matilda",28.0,3,False,0.0
+1137,"PETROFF, Mr Nedialco",19.0,3,False,1.0
+1138,"PETROFF, Mr Pastcho",29.0,3,False,1.0
+1139,"PETTERSSON, Miss Ellen Natalia",18.0,3,False,0.0
+1140,"PETTERSSON, Mr Johan Emil",25.0,3,False,1.0
+1141,"PICKARD, Mr Berk",32.0,3,True,1.0
+1142,"PLOTCHARSKY, Mr Vasil",27.0,3,False,1.0
+1143,"POKRNIC, Mr Mate",17.0,3,False,1.0
+1144,"POKRNIC, Mr Tome",24.0,3,False,1.0
+1145,"PULNER, Mr Uscher",16.0,3,False,1.0
+1146,"RADEFF, Mr Alexander",27.0,3,False,1.0
+1147,"RASMUSSEN, Mrs Lena Jakobsen",63.0,3,False,0.0
+1148,"RAZI, Mr Raihed",30.0,3,False,1.0
+1149,"REED, Mr James George",19.0,3,False,1.0
+1150,"REKIC, Mr Tido",38.0,3,False,1.0
+1151,"REYNOLDS, Mr Harold J.",21.0,3,False,1.0
+1152,"RICE, Master Albert",10.0,3,False,1.0
+1153,"RICE, Master Arthur",4.0,3,False,1.0
+1154,"RICE, Master Eric",7.0,3,False,1.0
+1155,"RICE, Master Eugene Francis",2.0,3,False,0.0
+1156,"RICE, Master George Hugh",8.0,3,False,1.0
+1157,"RICE, Mrs Margaret",39.0,3,False,0.0
+1158,"RIIHIVUORI, Miss Susanna ""Sanni""",22.0,3,False,0.0
+1159,"RINTAMAKI, Mr Matti",35.0,3,False,1.0
+1160,"RIORDAN, Miss Hannah",18.0,3,True,0.0
+1161,"RISIEN, Mr Samuel Beard",69.0,3,False,1.0
+1162,"RISIEN, Mrs Emma",58.0,3,False,0.0
+1163,"ROBINS, Mr Alexander A.",50.0,3,False,1.0
+1164,"ROBINS, Mrs Grace Charity",47.0,3,False,0.0
+1165,"ROGERS, Mr William John",29.0,3,False,1.0
+1166,"ROMMETVEDT, Mr Knud Paust",49.0,3,False,1.0
+1167,"ROSBLOM, Miss Salli Helena",2.0,3,False,0.0
+1168,"ROSBLOM, Mr Viktor Richard",18.0,3,False,1.0
+1169,"ROSBLOM, Mrs Helena Wilhelmina",41.0,3,False,0.0
+1170,"ROTH, Miss Sarah A.",26.0,3,True,0.0
+1171,"ROUSE, Mr Richard Henry",53.0,3,False,1.0
+1172,"RUSH, Mr Alfred George John",16.0,3,False,1.0
+1173,"RYAN, Mr Edward",24.0,3,True,1.0
+1174,"RYAN, Mr Patrick",29.0,3,False,1.0
+1175,"SOHOLT, Mr Peter Andreas Lauritz Andersen",19.0,3,False,1.0
+1176,"SAETHER, Mr Simon Sivertsen",43.0,3,False,1.0
+1177,"SAAD, Mr Amin",30.0,3,False,1.0
+1178,"SAAD, Mr Khalil",27.0,3,False,1.0
+1179,"SADLIER, Mr Matthew",20.0,3,False,1.0
+1180,"SADOWITZ, Mr Harry",17.0,3,False,1.0
+1181,"SAGE, Master Anthony William",12.0,3,False,1.0
+1182,"SAGE, Master Thomas Henry",4.0,3,False,1.0
+1183,"SAGE, Miss Constance Gladys",7.0,3,False,0.0
+1184,"SAGE, Miss Dorothy",14.0,3,False,0.0
+1185,"SAGE, Miss Elizabeth Ada",10.0,3,False,0.0
+1186,"SAGE, Miss Stella Anne",20.0,3,False,0.0
+1187,"SAGE, Mr Douglas Bullen",18.0,3,False,1.0
+1188,"SAGE, Mr Frederick",16.0,3,False,0.0
+1189,"SAGE, Mr George John",19.0,3,False,1.0
+1190,"SAGE, Mr John George",44.0,3,False,1.0
+1191,"SAGE, Mrs Annie Elizabeth",44.0,3,False,0.0
+1192,"SALANDER, Mr Karl Johan",24.0,3,False,1.0
+1193,"SALKJELSVIK, Miss Anna Kristine",21.0,3,True,0.0
+1194,"SALONEN, Mr Johan Werner",29.0,3,False,1.0
+1195,"SAMAAN, Mr Elias",17.0,3,False,1.0
+1196,"SAMAAN, Mr Hanna Elias",40.0,3,False,1.0
+1197,"SAMAAN, Mr Youssef (""Joseph"")",15.0,3,False,1.0
+1198,"SANDSTROM, Miss Beatrice Irene",1.0,3,True,0.0
+1199,"SANDSTROM, Miss Marguerite Rut",4.0,3,True,0.0
+1200,"SANDSTROM, Mrs Agnes Charlotta",24.0,3,True,0.0
+1201,"SAP, Mr Julius (""Jules _"")",21.0,3,True,1.0
+1202,"SAUNDERCOCK, Mr William Henry",19.0,3,False,1.0
+1203,"SAWYER, Mr Frederick Charles",33.0,3,False,0.0
+1204,"SCANLAN, Mr James",22.0,3,False,1.0
+1205,"SCHEERLINCK, Mr Jean",29.0,3,True,1.0
+1206,"SDYCOFF, Mr Todor",42.0,3,False,1.0
+1207,"SEMAN, Master Betros",10.0,3,False,1.0
+1208,"SHAUGHNESSY, Mr Patrick",24.0,3,False,1.0
+1209,"SHEDID, Mr Daher",19.0,3,False,1.0
+1210,"SHELLARD, Mr Frederick William Blainey",55.0,3,False,0.0
+1211,"SHINE, Miss Ellen Natalia",20.0,3,True,0.0
+1212,"SHORNEY, Mr Charles Joseph",22.0,3,False,1.0
+1213,"SIMMONS, Mr John",39.0,3,False,1.0
+1214,"SIRAYANIAN, Mr Orsen",22.0,3,False,1.0
+1215,"SIROTA, Mr Maurice",20.0,3,False,1.0
+1216,"SIVIC, Mr Husein",40.0,3,False,1.0
+1217,"SIVOLA, Mr Antti Wilhelm",21.0,3,False,1.0
+1218,"SJBLOM, Miss Anna Sofia",18.0,3,True,0.0
+1219,"SKOOG, Master Harald",5.0,3,False,1.0
+1220,"SKOOG, Master Karl Thorsten",11.0,3,False,1.0
+1221,"SKOOG, Miss Mabel",9.0,3,False,0.0
+1222,"SKOOG, Miss Margit Elizabeth",2.0,3,False,0.0
+1223,"SKOOG, Mr Wilhelm (""William Johansson"")",40.0,3,False,1.0
+1224,"SKOOG, Mrs Anna Bernhardina",43.0,3,False,0.0
+1225,"SLABENOFF, Mr Petco",42.0,3,False,1.0
+1226,"SLOCOVSKI, Mr Selman Francis",20.0,3,False,0.0
+1227,"SMILJANIC, Mr Mile",37.0,3,False,1.0
+1228,"SMYTH, Miss Julia",17.0,3,True,0.0
+1229,"SMYTH, Mr Thomas",26.0,3,False,1.0
+1230,"SOMERTON, Mr Francis William",31.0,3,False,0.0
+1231,"SPECTOR, Mr Woolf",23.0,3,False,1.0
+1232,"SPINNER, Mr Henry John",32.0,3,False,1.0
+1233,"STANEFF, Mr Ivan",23.0,3,False,1.0
+1234,"STANKOVIC, Mr Ivan",33.0,3,False,1.0
+1235,"STANLEY, Miss Amy Zillah Elsie",24.0,3,True,0.0
+1236,"STANLEY, Mr Edward Roland",21.0,3,False,1.0
+1237,"STOREY, Mr Thomas",51.0,3,False,1.0
+1238,"STOYTCHEFF, Mr Ilia",19.0,3,False,1.0
+1239,"STROM, Miss Telma Matilda",2.0,3,False,0.0
+1240,"STROM, Mrs Elna Matilda",29.0,3,False,0.0
+1241,"STRANDEN, Mr Juho Niilosson",31.0,3,True,1.0
+1242,"STRANDBERG, Miss Ida Sofia",22.0,3,False,0.0
+1243,"STRILIC, Mr Ivan",27.0,3,False,1.0
+1244,"SUNDERLAND, Mr Victor Francis",20.0,3,True,0.0
+1245,"SUNDMAN, Mr Johan Julian",44.0,3,True,1.0
+1246,"SUTEHALL, Mr Henry Jr",25.0,3,False,1.0
+1247,"SVENSSON, Mr Johan",74.0,3,False,1.0
+1248,"SVENSSON, Mr Johan Cervin",14.0,3,True,1.0
+1249,"SVENSSON, Mr Olof",24.0,3,False,1.0
+1250,"TORBER, Mr Ernst Wilhelm",41.0,3,False,1.0
+1251,"TORNQUIST, Mr William Henry",25.0,3,True,1.0
+1252,"TENGLIN, Mr Gunnar Isidor",25.0,3,True,1.0
+1253,"THEOBALD, Mr Thomas Leonard",34.0,3,False,1.0
+1254,"THOMAS, Mr Charles R'ad.",31.0,3,False,1.0
+1255,"THOMAS, Mrs Thamine ""Thelma""",16.0,3,True,0.0
+1256,"THOMAS/TANNOUS, Master Assad Alexander",0.4,3,True,1.0
+1257,"THOMAS/TANNOUS, Mr John",34.0,3,False,1.0
+1258,"THOMAS/TANNOUS, Mr Tannous",16.0,3,False,1.0
+1259,"THOMPSON, Mr Alexander Morrison",36.0,3,False,1.0
+1260,"THORNEYCROFT, Mr Percival",36.0,3,False,1.0
+1261,"THORNEYCROFT, Mrs Florence Kate",32.0,3,True,0.0
+1262,"TIKKANEN, Mr Juho",32.0,3,False,1.0
+1263,"TOBIN, Mr Roger",20.0,3,False,1.0
+1264,"TODOROFF, Mr Lalio",23.0,3,False,1.0
+1265,"TOMLIN, Mr Ernest Portage",22.0,3,False,1.0
+1266,"TORFA, Mr Assad",20.0,3,False,1.0
+1267,"TOUMA, Master Georges Youssef (""George Thomas"")",8.0,3,True,1.0
+1268,"TOUMA, Miss Maria Youssef (""Mary Thomas"")",9.0,3,True,0.0
+1269,"TOUMA, Mrs Hanna Youssef",27.0,3,True,0.0
+1270,"TURCIN, Mr Stjepan",36.0,3,False,1.0
+1271,"TURJA, Miss Anna Sofia",18.0,3,True,0.0
+1272,"TURKULA, Mrs Hedwig",63.0,3,True,0.0
+1273,"VAN BILLIARD, Master James William",10.0,3,False,1.0
+1274,"VAN BILLIARD, Master Walter John",9.0,3,False,1.0
+1275,"VAN BILLIARD, Mr Austin Blyler",35.0,3,False,1.0
+1276,"VAN DE VELDE, Mr Johannes Josef",35.0,3,False,1.0
+1277,"VAN DEN STEEN, Mr Leo Peter",28.0,3,False,1.0
+1278,"VAN IMPE, Miss Catharina",10.0,3,False,0.0
+1279,"VAN IMPE, Mr Jean Baptiste",36.0,3,False,1.0
+1280,"VAN IMPE, Mrs Rosalie Paula",30.0,3,False,0.0
+1281,"VAN MELCKEBEKE, Mr Philemon",23.0,3,False,1.0
+1282,"VANDERCRUYSSEN, Mr Victor",46.0,3,False,1.0
+1283,"VANDERPLANCKE, Miss Augusta Maria",18.0,3,False,0.0
+1284,"VANDERPLANCKE, Mr Julius",31.0,3,False,1.0
+1285,"VANDERPLANCKE, Mr Leo Edmondus",15.0,3,False,1.0
+1286,"VANDERPLANCKE, Mrs Emelie Maria",31.0,3,False,0.0
+1287,"VANDEWALLE, Mr Nestor Cyriel",28.0,3,False,1.0
+1288,"VARTANIAN, Mr David",22.0,3,True,1.0
+1289,"VENDEL, Mr Olof Edvin",20.0,3,False,1.0
+1290,"VESTROM, Miss Hulda Amanda Adolfina",14.0,3,False,0.0
+1291,"VOVK, Mr Janko",21.0,3,False,1.0
+1292,"WAELENS, Mr Achille",22.0,3,False,1.0
+1293,"WARE, Mr Frederick",34.0,3,False,0.0
+1294,"WARREN, Mr Charles William",30.0,3,False,1.0
+1295,"WAZLI, Mr Yousif Ahmed",25.0,3,False,1.0
+1296,"WEBBER, Mr James",66.0,3,False,1.0
+1297,"WENNERSTROM, Mr August",27.0,3,True,1.0
+1298,"WIDEGREN, Mr Carl / Charles Peter",51.0,3,False,1.0
+1299,"WIKLUND, Mr Jakob Alfred",18.0,3,False,1.0
+1300,"WIKLUND, Mr Karl Johan",21.0,3,False,1.0
+1301,"WILKES, Mrs Ellen",47.0,3,True,0.0
+1302,"WILLER, Mr Aaron",37.0,3,False,1.0
+1303,"WILLEY, Mr Edward",18.0,3,False,1.0
+1304,"WILLIAMS, Mr Howard Hugh ""Harry""",28.0,3,False,1.0
+1305,"WILLIAMS, Mr Leslie",28.0,3,False,1.0
+1306,"WINDELOV, Mr Einar",21.0,3,False,1.0
+1307,"WIRZ, Mr Albert",27.0,3,False,1.0
+1308,"WISEMAN, Mr Phillippe",54.0,3,False,1.0
+1309,"WITTEVRONGEL, Mr Camilius Aloysius",36.0,3,False,1.0
+1310,"YASBECK, Mr Antoni",27.0,3,False,1.0
+1311,"YAZBECK, Mrs Selini ""Celiney""",15.0,3,True,0.0
+1312,"YOUSSEFF (ABI SAAB), Mr Gerios",45.0,3,False,1.0
+1313,"YOUSSIFF (SAM'AAN), Mr Gerios",28.0,3,False,1.0
+1314,"ZAKARIAN, Mr Mapriededer",22.0,3,False,1.0
+1315,"ZAKARIAN, Mr Ortin",27.0,3,False,1.0
+1316,"ZIMMERMANN, Mr Leo",29.0,3,False,1.0
+1317,"ALLARIA, Sig. Battista Antonio",22.0,4,False,1.0
+1318,"ASPESLAGH, Mr Georges",26.0,4,False,1.0
+1319,"BANFI, Sig. Ugo",24.0,4,False,1.0
+1320,"BASILICO, Sig. Giovanni",27.0,4,False,1.0
+1321,"BAZZI, Sig. Narciso",33.0,4,False,1.0
+1322,"BERNARDI, Sig. Battista",22.0,4,False,1.0
+1323,"BEUX, Mr David",26.0,4,False,1.0
+1324,"BIETRIX, Mr George Baptiste",28.0,4,False,1.0
+1325,"BLUMET, Mr Jean Baptiste",26.0,4,False,1.0
+1326,"BOCHET, Mr Pierre Giuseppe",44.0,4,False,1.0
+1327,"BOLHUIS, Mr Hendrik",21.0,4,False,1.0
+1328,"BOWKER, Miss Ruth",27.0,4,True,0.0
+1329,"CASALI, Sig. Giulio",32.0,4,False,1.0
+1330,"CHABOISSON, Mr Adrien Finnin",25.0,4,False,1.0
+1331,"CORNAIRE, Mr Marcel Raymond Andre",19.0,4,False,1.0
+1332,"COUTIN, Mr Auguste Louis",28.0,4,False,1.0
+1333,"CROVELLA, Sig. Luigi/Louis",17.0,4,False,1.0
+1334,"DE MARSICO, Sig. Govanni",20.0,4,False,1.0
+1335,"DEBREUCQ, Mr Maurice Emile Victor",18.0,4,False,1.0
+1336,"DESVERNINE, Mr Louis Gabriel",20.0,4,False,1.0
+1337,"DONATI, Sig. Italo Francesco",17.0,4,False,1.0
+1338,"DORNIER, Mr Louis Auguste",20.0,4,False,1.0
+1339,"FEY, Sig. Carlo",30.0,4,False,1.0
+1340,"FIORAVANTE, Sig. Giuseppe Bertoldo",23.0,4,False,1.0
+1341,"GATTI, Sig. Gaspare Antonio Pietro",37.0,4,False,1.0
+1342,"GILARDINO, Sig. Vincenzo Pio",31.0,4,False,1.0
+1343,"GROSCLAUDE, Mr Gerald",24.0,4,False,1.0
+1344,"JAILLET, Mr Henri Marie",28.0,4,False,1.0
+1345,"JANIN, Mr Claude Marie",29.0,4,False,1.0
+1346,"JEFFERY, Mr William Alfred",28.0,4,False,1.0
+1347,"JOUANNAULT, Mr Georges Jules",24.0,4,False,1.0
+1348,"MARTIN, Miss Mabel Edwina",20.0,4,True,0.0
+1349,"MATTMANN, Sig. Adolf",20.0,4,False,1.0
+1350,"MAUGE, Mr Paul Achille Maurice Germain",25.0,4,True,1.0
+1351,"MONTEVERDI, Sig. Giovanni",23.0,4,False,1.0
+1352,"MOUROS, Sig. Jean/Javier",20.0,4,False,1.0
+1353,"NANNINI, Sig. Francesco Luigi Arcangelo",42.0,4,False,1.0
+1354,"PACHERA, Sig. Jean Baptiste Stanislas",19.0,4,False,1.0
+1355,"PEDRINI, Sig. Alessandro",21.0,4,False,1.0
+1356,"PERACCHIO, Sig. Alberto",20.0,4,False,1.0
+1357,"PERACCHIO, Sig. Sebastiano",17.0,4,False,1.0
+1358,"PEROTTI, Sig. Alfonso",20.0,4,False,1.0
+1359,"PHILLIPS, Mr Walter John",35.0,4,False,1.0
+1360,"PIATTI, Sig. Louis",17.0,4,False,1.0
+1361,"PIAZZA, Sig. Pompeo",30.0,4,False,1.0
+1362,"POGGI, Sig. Emilio",28.0,4,False,1.0
+1363,"PRICE, Mr Ernest",17.0,4,False,1.0
+1364,"RATTI, Sig. Enrico",21.0,4,False,1.0
+1365,"RICALDONE, Sig. Rinaldo Renato",22.0,4,False,1.0
+1366,"RIGOZZI, Sig. Abele",22.0,4,False,1.0
+1367,"ROTTA, Sig. Angelo Mario",23.0,4,False,1.0
+1368,"ROUSSEAU, Mr Pierre",49.0,4,False,1.0
+1369,"SACCAGGI, Sig. Giovanni Giuseppe Emilio",24.0,4,False,1.0
+1370,"SALUSSOLIA, Sig. Govanni",25.0,4,False,1.0
+1371,"SARTORI, Sig. Lazar",24.0,4,False,1.0
+1372,"SCAVINO, Sig. Candido",42.0,4,False,1.0
+1373,"SESIA, Sig. Giacomo",24.0,4,False,1.0
+1374,"TESTONI, Sig. Ercole",23.0,4,False,1.0
+1375,"TIETZ, Sig. Carlo/Karl",27.0,4,False,1.0
+1376,"TURVEY, Mr Charles",16.0,4,False,1.0
+1377,"URBINI, Sig. Roberto",22.0,4,False,1.0
+1378,"VALVASSORI, Sig. Ettore Luigi",35.0,4,False,1.0
+1379,"VICAT, Sig. Alphonse Jean Eugene",21.0,4,False,1.0
+1380,"VILLVARLANGE, Mr Pierre Leon Gabriel",19.0,4,False,1.0
+1381,"VINE, Mr H.",18.0,4,False,1.0
+1382,"VIONI, Sig. Roberto",31.0,4,False,1.0
+1383,"VOEGELIN-DUBACH, Sig. Johannes",35.0,4,False,1.0
+1384,"ZANETTI, Sig. Minio",20.0,4,False,1.0
+1385,"ZARRACCHI, Sig. L.",26.0,4,False,1.0
+1386,"ANDERSON, Mr James",40.0,5,True,1.0
+1387,"ARCHER, Mr Ernest Edward",36.0,5,True,1.0
+1388,"BAILEY, Mr Henry Joseph",43.0,5,True,1.0
+1389,"BOXHALL, Mr Joseph Groves",28.0,5,True,1.0
+1390,"BRADLEY, Mr T.",29.0,5,False,1.0
+1391,"BRICE, Mr Walter T",42.0,5,True,1.0
+1392,"BRIGHT, Mr Arthur John",42.0,5,True,1.0
+1393,"BULEY, Mr Edward John",27.0,5,True,1.0
+1394,"CLENCH, Mr Frederick",34.0,5,True,0.0
+1395,"CLENCH, Mr George",31.0,5,False,1.0
+1396,"COUCH, Mr Frank",28.0,5,False,0.0
+1397,"DAVIS, Mr Stephen James",39.0,5,False,1.0
+1398,"EVANS, Mr Alfred Frank",24.0,5,True,0.0
+1399,"EVANS, Mr Frank Oliver",27.0,5,True,0.0
+1400,"FLEET, Mr Frederick",24.0,5,True,0.0
+1401,"FOLEY, Mr John",44.0,5,True,1.0
+1402,"FORWARD, Mr James",27.0,5,True,1.0
+1403,"HAINES, Mr Albert M.",31.0,5,True,1.0
+1404,"HARDER, Mr William",39.0,5,True,1.0
+1405,"HEMMING, Mr Samuel Emest",43.0,5,True,1.0
+1406,"HICHENS, Mr Robert",29.0,5,True,1.0
+1407,"HOGG, Mr George Alfred",29.0,5,True,1.0
+1408,"HOLMAN, Mr Harry",27.0,5,False,1.0
+1409,"HOPKINS, Mr Robert John",40.0,5,True,1.0
+1410,"HORSWILL, Mr Albert Edward James",33.0,5,True,1.0
+1411,"HUMPHREYS, Mr Sidney James",48.0,5,True,1.0
+1412,"HUTCHINSON, Mr John Hall",26.0,5,False,1.0
+1413,"JEWELL, Mr Archie",23.0,5,True,1.0
+1414,"JONES, Mr Thomas William",32.0,5,True,1.0
+1415,"KING, Mr Thomas W.",43.0,5,False,1.0
+1416,"LEE, Mr Reginald Robinson",41.0,5,True,1.0
+1417,"LIGHTOLLER, Mr Charles Herbert",38.0,5,True,1.0
+1418,"LOWE, Mr Harold Godfrey",29.0,5,True,1.0
+1419,"LUCAS, Mr William A.",25.0,5,True,1.0
+1420,"LYONS, Mr William Henry",26.0,5,False,1.0
+1421,"MATHERSON, Mr David",30.0,5,False,1.0
+1422,"MATHIAS, Mr Montague Vincent",27.0,5,False,1.0
+1423,"MAXWELL, Mr John",31.0,5,False,1.0
+1424,"MCCARTHY, Mr William",47.0,5,True,1.0
+1425,"MCGOUGH, Mr George Francis",36.0,5,True,0.0
+1426,"MOODY, Mr James Paul",24.0,5,False,1.0
+1427,"MOORE, Mr George Alfred",32.0,5,True,1.0
+1428,"MURDOCH, Mr William McMaster",39.0,5,False,1.0
+1429,"NICHOLS, Mr Alfred",42.0,5,False,1.0
+1430,"O'LOUGHLIN, Dr William Francis Norman",62.0,5,False,0.0
+1431,"OLLIVER, Mr Alfred",27.0,5,True,1.0
+1432,"OSMAN, Mr Frank",28.0,5,True,0.0
+1433,"PASCOE, Mr Charles H.",43.0,5,True,1.0
+1434,"PERKIS, Mr Walter John",37.0,5,True,1.0
+1435,"PETERS, Mr William Chapman",26.0,5,True,1.0
+1436,"PITMAN, Mr Herbert John",34.0,5,True,1.0
+1437,"POINGDESTRE, Mr John Thomas",33.0,5,True,1.0
+1438,"ROWE, Mr George Thomas",32.0,5,True,1.0
+1439,"SAWYER, Mr Robert James",30.0,5,False,1.0
+1440,"SCARROTT, Mr Joseph George",33.0,5,True,1.0
+1441,"SIMPSON, Dr John Edward",37.0,5,False,1.0
+1442,"SMITH, Captain Edward John",62.0,5,False,1.0
+1443,"SMITH, Mr William",26.0,5,False,1.0
+1444,"SYMONS, Mr George Thomas Macdonald",24.0,5,True,1.0
+1445,"TAMLYN, Mr Frederick",23.0,5,False,0.0
+1446,"TAYLOR, Mr C.",35.0,5,False,1.0
+1447,"TERRELL, Mr Bertram",20.0,5,False,1.0
+1448,"VIGOTT, Mr Philip Francis",32.0,5,True,0.0
+1449,"WELLER, Mr William Clifford",30.0,5,True,1.0
+1450,"WILDE, Mr Henry Tingle",39.0,5,False,1.0
+1451,"WYNN, Mr Walter",41.0,5,True,1.0
+1452,"ABRAMS, Mr William",33.0,6,False,1.0
+1453,"ADAMS, Mr R.",26.0,6,False,1.0
+1454,"ALLEN, Mr Ernest Frederick",24.0,6,True,0.0
+1455,"ALLEN, Mr Henry",32.0,6,False,1.0
+1456,"ALLSOP, Mr Alfred Samuel",34.0,6,False,1.0
+1457,"AVERY, Mr James Frank",22.0,6,True,0.0
+1458,"BAILEY, Mr George W.",46.0,6,False,1.0
+1459,"BAINES, Mr Richard",24.0,6,False,1.0
+1460,"BANNON, Mr John",32.0,6,False,1.0
+1461,"BARLOW, Mr Charles",30.0,6,False,1.0
+1462,"BARNES, Mr Charles",29.0,6,False,1.0
+1463,"BARNES, Mr J.",41.0,6,False,1.0
+1464,"BARRETT, Mr Frederick",28.0,6,True,0.0
+1465,"BARRETT, Mr Frederick William",33.0,6,False,0.0
+1466,"BEATTIE, Mr Joseph",35.0,6,False,1.0
+1467,"BEAUCHAMP, Mr George William",24.0,6,True,1.0
+1468,"BELL, Mr Joseph",50.0,6,False,1.0
+1469,"BENDELL, Mr F.",24.0,6,False,1.0
+1470,"BENNETT, Mr George Alfred",30.0,6,False,1.0
+1471,"BENVILLE, Mr E.",42.0,6,False,1.0
+1472,"BESSANT, Mr William Edward",39.0,6,False,1.0
+1473,"BEVIS, Mr Joseph Henry",22.0,6,False,1.0
+1474,"BIDDLECOMBE, Mr Charles",33.0,6,False,1.0
+1475,"BIGGS, Mr Edward Charles",20.0,6,False,1.0
+1476,"BILLOW, Mr J.",20.0,6,False,1.0
+1477,"BINSTEAD, Mr Walter",19.0,6,True,1.0
+1478,"BLACK, Mr Alexander",28.0,6,False,1.0
+1479,"BLACK, Mr D.",41.0,6,False,1.0
+1480,"BLACKMAN, Mr H.",24.0,6,False,1.0
+1481,"BLAKE, Mr Percival Albert",22.0,6,True,1.0
+1482,"BLAKE, Mr Seaton",26.0,6,False,1.0
+1483,"BLAKE, Mr Thomas",36.0,6,False,1.0
+1484,"BLANEY, Mr James",29.0,6,False,1.0
+1485,"BLANN, Mr Eustace Horatius",21.0,6,False,1.0
+1486,"BOTT, Mr W.",44.0,6,False,1.0
+1487,"BRADLEY, Mr Patrick Joseph",39.0,6,False,1.0
+1488,"BREWER, Mr Henry (""Harry"")",30.0,6,False,1.0
+1489,"BRIANT, Mr Albert",34.0,6,False,1.0
+1490,"BROOKS, Mr J.",25.0,6,False,1.0
+1491,"BROWN, Mr John",25.0,6,False,1.0
+1492,"BROWN, Mr Joseph James",25.0,6,False,1.0
+1493,"BURROUGHS, Mr Arthur",35.0,6,False,1.0
+1494,"BURTON, Mr Edward John",32.0,6,False,1.0
+1495,"BUTT, Mr William John",30.0,6,False,1.0
+1496,"CALDERWOOD, Mr Hugh",30.0,6,False,1.0
+1497,"CANNER, Mr J.",40.0,6,False,1.0
+1498,"CARR, Mr Richard Stephen",37.0,6,False,1.0
+1499,"CARTER (BALL), Mr James (W.)",46.0,6,False,1.0
+1500,"CASEY, Mr T.",28.0,6,False,1.0
+1501,"CASTLEMAN, Mr Edward",37.0,6,False,1.0
+1502,"CAVELL, Mr George Henry",22.0,6,True,1.0
+1503,"CHERRETT, Mr William Victor",24.0,6,False,1.0
+1504,"CHISNALL, Mr George Alexander",35.0,6,False,1.0
+1505,"CHORLEY, Mr John",25.0,6,False,1.0
+1506,"CLARK, Mr William",39.0,6,True,1.0
+1507,"COE, Mr Harry",21.0,6,False,1.0
+1508,"COLEMAN, Mr John",57.0,6,False,1.0
+1509,"COLLINS, Mr Samuel",35.0,6,True,1.0
+1510,"COMBES, Mr George",34.0,6,True,1.0
+1511,"COOPER, Mr Harry",26.0,6,False,1.0
+1512,"COOPER, Mr James",25.0,6,False,1.0
+1513,"COPPERTHWAITE, Mr B.",22.0,6,False,1.0
+1514,"CORCORAN, Mr Denny",33.0,6,False,1.0
+1516,"COUCH, Mr Joseph Henry",45.0,6,False,1.0
+1517,"COUPER, Mr Robert",30.0,6,True,1.0
+1518,"COY, Mr Francis Ernest George",26.0,6,False,0.0
+1519,"CRABB, Mr H.",23.0,6,False,1.0
+1520,"CREESE, Mr Henry Philip",44.0,6,False,1.0
+1521,"CRIMMINS, Mr James",21.0,6,True,1.0
+1522,"CROSS, Mr W.",39.0,6,False,1.0
+1523,"CUNNINGHAM, Mr B.",30.0,6,False,1.0
+1524,"CURTIS, Mr Arthur",25.0,6,False,1.0
+1525,"DAVIES, Mr Thomas",33.0,6,False,1.0
+1526,"DAWSON, Mr Joseph",23.0,6,False,1.0
+1527,"DIAPER, Mr J",24.0,6,True,1.0
+1528,"DICKSON, Mr W.",36.0,6,False,1.0
+1529,"DILLEY, Mr John",30.0,6,True,1.0
+1530,"DILLON, Mr Thomas Patrick",24.0,6,True,1.0
+1531,"DODD, Mr Edward Charles",38.0,6,False,1.0
+1532,"DODDS, Mr Henry Watson",27.0,6,False,1.0
+1533,"DOEL, Mr Frederick",22.0,6,True,0.0
+1534,"DORE, Mr A.",22.0,6,True,1.0
+1535,"DOYLE, Mr Laurence",27.0,6,False,1.0
+1536,"DUFFY, Mr William Luke",28.0,6,False,1.0
+1537,"DYER, Mr Henry Ryland",24.0,6,False,1.0
+1538,"DYMOND, Mr Frank",25.0,6,True,0.0
+1539,"EAGLE, Mr A. J.",22.0,6,False,1.0
+1540,"EASTMAN, Mr Charles",44.0,6,False,1.0
+1541,"ELLIOTT, Mr Everett Edward",24.0,6,False,1.0
+1542,"ERVINE, Mr Albert George",18.0,6,False,1.0
+1543,"EVANS, Mr William",30.0,6,False,1.0
+1544,"FARQUHARSON, Mr William Edward",39.0,6,False,1.0
+1545,"FAY, Mr Thomas Joseph",30.0,6,False,1.0
+1546,"FERRARY, Mr Anton",34.0,6,False,1.0
+1547,"FERRIS, Mr W.",38.0,6,False,1.0
+1548,"FITZPATRICK, Mr Cecil William",21.0,6,True,1.0
+1549,"FITZPATRICK, Mr Hugh J.",27.0,6,False,1.0
+1550,"FLARTY, Mr Edward",43.0,6,True,1.0
+1551,"FORD, Mr H.",22.0,6,False,1.0
+1552,"FORD, Mr Thomas",30.0,6,False,1.0
+1553,"FOSTER, Mr Albert C.",37.0,6,False,1.0
+1554,"FRASER, Mr J.",30.0,6,False,1.0
+1555,"FRASER, Mr James",29.0,6,False,1.0
+1556,"FREDERICKS, Mr Walter Francis",20.0,6,True,0.0
+1557,"FRYER, Mr Albert Ernest",26.0,6,True,1.0
+1558,"GEER, Mr Alfred Emest",24.0,6,False,1.0
+1559,"GODLEY, Mr George",34.0,6,True,1.0
+1560,"GODWIN, Mr Frederick Walter",34.0,6,False,0.0
+1561,"GOLDER, Mr M. W.",32.0,6,False,1.0
+1562,"GORDON, Mr J.",29.0,6,False,1.0
+1563,"GOREE, Mr Frank",42.0,6,False,0.0
+1564,"GOSLING, Mr Bertram James",22.0,6,False,1.0
+1565,"GOSLING, Mr S.",26.0,6,False,1.0
+1566,"GRADIDGE, Mr Ernest Edward",22.0,6,False,1.0
+1567,"GRAHAM, Mr Thomas G.",28.0,6,True,1.0
+1568,"GREEN, Mr George",20.0,6,False,1.0
+1569,"GREGORY, Mr David",40.0,6,False,1.0
+1570,"GUMERY, Mr George",24.0,6,False,1.0
+1571,"HAGGAN, Mr John",35.0,6,True,1.0
+1572,"HALL, Mr J.",32.0,6,False,1.0
+1573,"HALLETT, Mr George",22.0,6,False,1.0
+1574,"HANDS, Mr Bernard",53.0,6,False,1.0
+1575,"HANNAM, Mr George",30.0,6,False,1.0
+1576,"HARRIS, Mr Amos Fred",21.0,6,False,0.0
+1577,"HARRIS, Mr Edward",28.0,6,False,1.0
+1578,"HARRIS, Mr Frederick",39.0,6,True,0.0
+1579,"HARRISON, Mr Norman E.",38.0,6,False,1.0
+1580,"HART, Mr James",49.0,6,False,1.0
+1581,"HARVEY, Mr Herbert Gifford",34.0,6,False,1.0
+1582,"HASLIN, Mr James",45.0,6,False,1.0
+1583,"HEAD, Mr A.",24.0,6,False,1.0
+1584,"HEBB, Mr A.",20.0,6,True,1.0
+1585,"HENDRICKSON, Mr Charles George",29.0,6,True,1.0
+1586,"HESKETH, Mr John Henry",33.0,6,False,1.0
+1587,"HILL, Mr James",25.0,6,False,1.0
+1588,"HINTON, Mr Stephen William",30.0,6,False,1.0
+1589,"HODGE, Mr Charles",29.0,6,False,1.0
+1590,"HODGES, Mr W.",26.0,6,False,1.0
+1591,"HODGKINSON, Mr Leonard",46.0,6,False,1.0
+1592,"HOPGOOD, Mr Roland",22.0,6,False,1.0
+1593,"HOSGOOD, Mr Richard",22.0,6,False,1.0
+1594,"HOSKING, Mr George Fox",36.0,6,False,1.0
+1595,"HUNT, Mr Albert",22.0,6,True,1.0
+1596,"HUNT, Mr Tom",28.0,6,False,1.0
+1597,"HURST, Mr Charles John",35.0,6,False,1.0
+1598,"HURST, Mr Walter",23.0,6,True,1.0
+1599,"INGRAM, Mr Charles",20.0,6,False,1.0
+1600,"INSTANCE, Mr T.",33.0,6,False,1.0
+1601,"JACOBSON, Mr John",29.0,6,False,1.0
+1602,"JAGO, Mr Joseph",27.0,6,False,1.0
+1603,"JAMES, Mr Thomas",27.0,6,False,1.0
+1604,"JARVIS, Mr Walter",37.0,6,False,1.0
+1605,"JOAS, Mr N.",38.0,6,False,1.0
+1606,"JUDD, Mr Charles E.",32.0,6,True,1.0
+1607,"JUKES, Mr James",35.0,6,False,1.0
+1608,"JUPE, Mr Boykett Herbert",30.0,6,False,1.0
+1609,"KASPER, Mr F.",40.0,6,True,1.0
+1610,"KEARL, Mr Charles Henry",43.0,6,False,1.0
+1611,"KEARL, Mr G.",24.0,6,False,1.0
+1612,"KEEGAN, Mr James",38.0,6,False,1.0
+1613,"KELLY, Mr James",44.0,6,False,1.0
+1614,"KELLY, Mr William",23.0,6,False,1.0
+1615,"KEMISH, Mr George",24.0,6,True,1.0
+1616,"KEMP, Mr Thomas Hulman",43.0,6,False,1.0
+1617,"KENCHENTEN, Mr Frederick",37.0,6,False,0.0
+1618,"KENZLER, Mr Augustus",43.0,6,False,1.0
+1619,"KERR, Mr Thomas",26.0,6,False,1.0
+1620,"KINSELLA, Mr L.",30.0,6,False,1.0
+1621,"KIRKHAM, Mr J.",39.0,6,False,1.0
+1622,"KNOWLES, Mr Thomas",42.0,6,True,1.0
+1623,"LAHY, Mr T. E.",32.0,6,False,1.0
+1624,"LEE, Mr H.",18.0,6,False,1.0
+1625,"LIGHT, Mr Christopher William",20.0,6,False,1.0
+1626,"LIGHT, Mr W.",47.0,6,False,1.0
+1627,"LINDSAY, Mr William Charles",30.0,6,True,1.0
+1628,"LLOYD, Mr W.",29.0,6,False,1.0
+1629,"LONG, Mr F.",28.0,6,False,1.0
+1630,"LONG, Mr W.",30.0,6,False,1.0
+1631,"MACKIE, Mr William Dickson",32.0,6,False,1.0
+1632,"MAJOR, Mr William James",32.0,6,True,1.0
+1633,"MARRETT, Mr G.",22.0,6,False,1.0
+1634,"MARSH, Mr Frederick Charles",39.0,6,False,0.0
+1635,"MASKELL, Mr Leopold Adolphus",25.0,6,False,1.0
+1636,"MASON, Mr Frank Archibald Robert",32.0,6,True,1.0
+1637,"MASON, Mr J.",39.0,6,False,1.0
+1638,"MAY, Mr Arthur",24.0,6,False,1.0
+1639,"MAY, Mr Arthur William",60.0,6,False,1.0
+1640,"MAYO, Mr William Peter",27.0,6,False,1.0
+1641,"MAYZES, Mr Thomas",25.0,6,True,1.0
+1642,"MCANDREW, Mr Thomas",36.0,6,False,1.0
+1643,"MCANDREWS, Mr William",23.0,6,False,1.0
+1644,"MCCASTLAN, Mr W.",38.0,6,False,1.0
+1645,"MCGANN, Mr James",26.0,6,True,1.0
+1646,"MCGARVEY, Mr Edward Joseph",34.0,6,False,1.0
+1647,"MCGAW, Mr Eroll V.",30.0,6,False,1.0
+1648,"MCGREGOR, Mr J.",30.0,6,False,1.0
+1649,"MCINERNEY, Mr Thomas",37.0,6,False,1.0
+1650,"MCINTYRE, Mr William",21.0,6,True,1.0
+1651,"MCQUILLAN, Mr William",26.0,6,False,1.0
+1652,"MCRAE, Mr William Alexander",32.0,6,False,1.0
+1653,"MCREYNOLDS, Mr William",22.0,6,False,1.0
+1654,"MIDDLETON, Mr Alfred Pirrie",26.0,6,False,1.0
+1655,"MILFORD, Mr George",28.0,6,False,1.0
+1656,"MILLAR, Mr Robert",26.0,6,False,1.0
+1657,"MILLAR, Mr Thomas",33.0,6,False,1.0
+1658,"MINTRAM, Mr William",46.0,6,False,1.0
+1659,"MITCHELL, Mr Lawrence",18.0,6,False,1.0
+1660,"MOORE, Mr John J.",29.0,6,True,1.0
+1661,"MOORE, Mr Ralph William",21.0,6,False,1.0
+1662,"MOORES, Mr Richard Henry",44.0,6,False,1.0
+1663,"MORELL, Mr R.",21.0,6,False,1.0
+1664,"MORGAN, Mr Arthur Herbert",27.0,6,False,1.0
+1665,"MORGAN, Mr Thomas A.",26.0,6,False,1.0
+1666,"MORRIS, Mr Arthur",30.0,6,False,1.0
+1667,"MORRIS, Mr W.",24.0,6,False,1.0
+1668,"MOYES, Mr William Young",23.0,6,False,1.0
+1669,"MURDOCH, Mr William John",33.0,6,True,1.0
+1670,"NETTLETON, Mr George",28.0,6,False,1.0
+1671,"NEWMAN, Mr Charles Thomas",33.0,6,False,1.0
+1672,"NOON, Mr John",35.0,6,False,1.0
+1673,"NORRIS, Mr J.",23.0,6,False,1.0
+1674,"NOSS, Mr Bertram Arthur",21.0,6,False,1.0
+1675,"NOSS, Mr Henry",30.0,6,True,1.0
+1676,"NUTBEAN, Mr William",30.0,6,True,1.0
+1677,"O'CONNOR, Mr John",25.0,6,True,1.0
+1678,"OLIVE, Mr Charles",31.0,6,False,1.0
+1679,"OLIVER, Mr Harry",32.0,6,True,1.0
+1680,"OTHEN, Mr Charles",35.0,6,True,1.0
+1681,"PAICE, Mr Richard Charles John",32.0,6,False,1.0
+1682,"PAINTER, Mr Charles",31.0,6,False,1.0
+1683,"PAINTER, Mr Frank Frederick",29.0,6,False,0.0
+1684,"PALLES, Mr Thomas",42.0,6,False,1.0
+1685,"PARSONS, Mr Frank Alfred",26.0,6,False,0.0
+1686,"PEARCE, Mr John",28.0,6,True,1.0
+1687,"PELHAM, Mr George",39.0,6,True,1.0
+1688,"PERRY, Mr Edgar Lionel",19.0,6,True,1.0
+1689,"PERRY, Mr H.",23.0,6,False,1.0
+1690,"PHILLIPS, Mr A. G.",27.0,6,False,1.0
+1691,"PITFIELD, Mr William James",25.0,6,False,1.0
+1692,"PODESTA, Mr John Alexander",24.0,6,True,1.0
+1693,"POND, Mr George",32.0,6,False,1.0
+1694,"PRANGNELL, Mr George Alexander",30.0,6,True,1.0
+1695,"PRESTON, Mr Thomas Charles Alfred",20.0,6,False,1.0
+1696,"PRIEST, Mr Arthur John",24.0,6,True,1.0
+1697,"PROUDFOOT, Mr Richard",23.0,6,False,1.0
+1698,"PUGH, Mr Percy",31.0,6,False,1.0
+1699,"PUSEY, Mr Robert William",24.0,6,True,1.0
+1700,"RANGER, Mr Thomas",29.0,6,True,1.0
+1701,"READ, Mr J.",21.0,6,False,1.0
+1702,"READ, Mr Robert",30.0,6,False,1.0
+1703,"REEVES, Mr F.",31.0,6,False,1.0
+1704,"RICE, Mr Charles",32.0,6,True,1.0
+1705,"RICHARDS, Mr Joseph James",28.0,6,False,1.0
+1706,"RICKMAN, Mr George Albert",36.0,6,False,1.0
+1707,"ROBERTS, Mr Robert George",35.0,6,False,1.0
+1708,"ROUS, Mr Arthur J.",26.0,6,False,1.0
+1709,"RUDD, Mr Henry",23.0,6,False,1.0
+1710,"RUTTER (GRAVES), Mr Sidney Frank",30.0,6,False,0.0
+1711,"SANGSTER, Mr Charles",32.0,6,False,1.0
+1712,"SAUNDERS, Mr F.",23.0,6,False,1.0
+1713,"SAUNDERS, Mr W.",23.0,6,False,1.0
+1714,"SAUNDERS, Mr Walter Edward",23.0,6,False,1.0
+1715,"SCOTT, Mr Archibald",40.0,6,False,1.0
+1716,"SCOTT, Mr Frederick William",28.0,6,True,0.0
+1717,"SELF, Mr Alfred Henry",39.0,6,False,1.0
+1718,"SELF, Mr Edward",25.0,6,True,1.0
+1719,"SENIOR, Mr Harry",31.0,6,True,1.0
+1720,"SHEA, Mr Thomas",32.0,6,False,1.0
+1721,"SHEATH, Mr Frederick",20.0,6,True,0.0
+1722,"SHEPHERD, Mr Jonathan",32.0,6,False,1.0
+1723,"SHIERS, Mr Alfred Charles",25.0,6,True,1.0
+1724,"SHILLABEER, Mr Charles Frederick",20.0,6,False,0.0
+1725,"SKEATES, Mr William",26.0,6,False,1.0
+1726,"SLOAN, Mr Peter",31.0,6,False,1.0
+1727,"SMALL, Mr William",40.0,6,False,1.0
+1728,"SMITH, Mr Emest George",26.0,6,False,1.0
+1729,"SMITH, Mr James M.",35.0,6,False,1.0
+1730,"SMITHER, Mr Harry John",22.0,6,False,1.0
+1731,"SNELLGROVE, Mr G.",40.0,6,False,1.0
+1732,"SNOOKS, Mr W.",26.0,6,False,1.0
+1733,"SNOW, Mr Eustace Philip",21.0,6,True,1.0
+1734,"SPARKMAN, Mr H.",30.0,6,True,1.0
+1735,"STANBROOK, Mr Alfred Augustus",30.0,6,False,1.0
+1737,"STOCKER, Mr H.",20.0,6,False,1.0
+1738,"STREET, Mr Thomas Albert",25.0,6,True,1.0
+1739,"STUBBS, Mr James Henry",28.0,6,False,1.0
+1740,"SULLIVAN, Mr S.",25.0,6,False,1.0
+1741,"TAYLOR, Mr J.",42.0,6,False,1.0
+1742,"TAYLOR, Mr James",24.0,6,True,1.0
+1743,"TAYLOR, Mr John",50.0,6,False,1.0
+1744,"TAYLOR, Mr William Henry",26.0,6,True,1.0
+1745,"THOMAS, Mr Joseph",25.0,6,False,1.0
+1746,"THOMPSON, Mr John William",35.0,6,True,1.0
+1747,"THRELFALL, Mr Thomas",44.0,6,True,1.0
+1748,"THRESHER, Mr George Terrill",25.0,6,True,1.0
+1749,"TIZARD, Mr Arthur",31.0,6,False,1.0
+1750,"TOZER, Mr James",30.0,6,False,1.0
+1751,"TRIGGS, Mr Robert",40.0,6,True,1.0
+1752,"TURLEY, Mr Richard",35.0,6,False,1.0
+1753,"VAN DER BRUGGE, Mr Wessel Adrianus",42.0,6,False,1.0
+1754,"VEAL, Mr Arthur",35.0,6,False,1.0
+1755,"VEAR, Mr H.",32.0,6,False,1.0
+1756,"VEAR, Mr William",33.0,6,False,1.0
+1757,"WARD, Mr Arthur",24.0,6,False,1.0
+1758,"WARD, Mr J.",31.0,6,False,1.0
+1759,"WARDNER, Mr Albert",39.0,6,False,1.0
+1760,"WATERIDGE, Mr Edward Lewis",25.0,6,False,1.0
+1761,"WATSON, Mr W.",27.0,6,False,1.0
+1762,"WATTS, Mr",36.0,6,False,1.0
+1763,"WEBB, Mr S.",28.0,6,False,1.0
+1764,"WEBBER, Mr Francis Albert",31.0,6,False,0.0
+1765,"WHITE, Mr Alfred",32.0,6,True,1.0
+1766,"WHITE, Mr Frank Leonard",28.0,6,False,0.0
+1767,"WHITE, Mr William George",23.0,6,True,1.0
+1768,"WILLIAMS, Mr Samuel S.",26.0,6,False,1.0
+1769,"WILSON, Mr Bertie",28.0,6,False,1.0
+1770,"WILTON, Mr William",45.0,6,False,1.0
+1771,"WITCHER, Mr Albert Ernest",39.0,6,False,1.0
+1772,"WITT, Mr Henry Dennis",37.0,6,False,1.0
+1773,"WOOD, Mr Henry",30.0,6,False,1.0
+1774,"WOODFORD, Mr Frederick",40.0,6,False,0.0
+1775,"WYETH, Mr James",26.0,6,False,1.0
+1776,"YOUNG, Mr Francis James",30.0,6,False,0.0
+1777,"ABBOTT, Mr Ernest Owen",21.0,7,False,1.0
+1778,"AHIER, Mr Percy Snowden",20.0,7,False,1.0
+1779,"AKERMAN, Mr Albert",28.0,7,False,1.0
+1780,"AKERMAN, Mr Joseph Francis",35.0,7,False,0.0
+1781,"ALLAN, Mr Robert Spencer",36.0,7,False,1.0
+1782,"ALLEN, Mr Frederick",17.0,7,False,0.0
+1783,"ALLEN, Mr George",26.0,7,False,1.0
+1784,"ALLSOP, Mr Frank Richard",41.0,7,False,0.0
+1785,"ANDERSON, Mr Walter J.",48.0,7,False,1.0
+1786,"ANDREWS, Mr Charles Edward",19.0,7,True,1.0
+1787,"ASHCROFT, Mr Austin Aloysius",26.0,7,False,1.0
+1788,"ASHE, Mr Henry Wellesley",32.0,7,False,1.0
+1789,"AYLING, Mr George Edwin",22.0,7,False,1.0
+1790,"BACK, Mr Charles Frederick",32.0,7,False,0.0
+1791,"BAGGOTT, Mr Allen Marden",28.0,7,True,1.0
+1792,"BAGLEY, Mr Edward Ernest",31.0,7,False,1.0
+1793,"BAILEY, Mr George Francis",36.0,7,False,0.0
+1794,"BALL, Mr Percy",19.0,7,True,1.0
+1795,"BARKER, Mr Albert Vale",19.0,7,False,1.0
+1796,"BARKER, Mr Ernest T.",37.0,7,False,1.0
+1797,"BARKER, Mr Reginald Lomond",40.0,7,False,1.0
+1798,"BARLOW, Mr George",36.0,7,False,1.0
+1799,"BARNES, Mr Frederick",37.0,7,False,0.0
+1800,"BARRATT, Mr Arthur",15.0,7,False,1.0
+1801,"BARRINGER, Mr Arthur William",33.0,7,False,1.0
+1802,"BARROW, Mr Harry",35.0,7,False,1.0
+1803,"BARROWS, Mr William",32.0,7,False,1.0
+1804,"BARTON, Mr Sidney John",25.0,7,False,1.0
+1805,"BAXTER, Mr Harry Ross",51.0,7,False,1.0
+1806,"BAXTER, Mr Thomas Ferguson",48.0,7,False,1.0
+1807,"BEDFORD, Mr William Barnet",31.0,7,False,1.0
+1808,"BEEDEM, Mr George Arthur",34.0,7,False,1.0
+1809,"BEERE, Mr William",19.0,7,False,1.0
+1810,"BENHAM, Mr Frederick",29.0,7,False,0.0
+1811,"BENNETT, Mrs Mabel",30.0,7,True,0.0
+1812,"BESSANT, Mr Edward William",31.0,7,False,1.0
+1813,"BEST, Mr Alfred Edwin",38.0,7,False,1.0
+1814,"BISHOP, Mr Walter Alexander",34.0,7,False,1.0
+1815,"BLISS, Mrs Emma",45.0,7,True,0.0
+1816,"BOCHATAY, Mr Alexis Joseph",30.0,7,False,1.0
+1817,"BOGIE, Mr Norman Leslie",29.0,7,False,1.0
+1818,"BOND, Mr William John",40.0,7,False,1.0
+1819,"BOOTHBY, Mr W.",36.0,7,False,1.0
+1820,"BOSTON, Mr William John",30.0,7,False,1.0
+1821,"BOUGHTON, Mr B.",24.0,7,False,1.0
+1822,"BOYD, Mr John",35.0,7,False,1.0
+1823,"BOYES, Mr John Henry",36.0,7,False,1.0
+1824,"BRADSHAW, Mr J. A.",43.0,7,False,1.0
+1825,"BREWSTER, Mr George H.",48.0,7,False,1.0
+1826,"BRIDE, Mr Harold Sydney",22.0,7,True,1.0
+1827,"BRISTOW, Mr Harry",33.0,7,False,1.0
+1828,"BRISTOW, Mr Robert Charles",31.0,7,False,1.0
+1829,"BROOKMAN, Mr John",27.0,7,False,1.0
+1830,"BROOM, Mr H.",33.0,7,False,1.0
+1831,"BROOME, Mr Athol Frederick",30.0,7,False,0.0
+1832,"BROWN, Mr Edward",34.0,7,True,1.0
+1833,"BROWN, Mr Walter James",28.0,7,False,1.0
+1834,"BUCKLEY, Mr H. E.",34.0,7,False,1.0
+1835,"BULL, Mr W.",30.0,7,False,1.0
+1836,"BULLEY, Mr Henry Ashburnham",21.0,7,False,1.0
+1837,"BUNNELL, Mr Wilfred",20.0,7,False,1.0
+1838,"BURGESS, Mr Charles Reginald",18.0,7,True,1.0
+1839,"BURKE, Mr Richard Edward",30.0,7,False,1.0
+1840,"BURKE, Mr William",31.0,7,True,1.0
+1841,"BURR, Mr Ewart Sydenham",29.0,7,False,1.0
+1842,"BURRAGE, Mr A.",20.0,7,True,1.0
+1843,"BUTT, Mr Robert Henry",21.0,7,False,1.0
+1844,"BUTTERWORTH, Mr John",23.0,7,False,1.0
+1845,"BYRNE, Mr J. E.",38.0,7,False,1.0
+1846,"CAMPBELL, Mr Donald S.",25.0,7,False,0.0
+1847,"CARNEY, Mr William",31.0,7,False,1.0
+1848,"CARTWRIGHT, Mr James Edward",32.0,7,False,1.0
+1849,"CASSWILL, Mr Charles",34.0,7,False,1.0
+1850,"CATON, Miss Annie",33.0,7,True,0.0
+1851,"CAUNT, Mr William Ewart",27.0,7,False,1.0
+1852,"CAVE, Mr Herbert",34.0,7,False,1.0
+1853,"CECIL, Mr C.",20.0,7,False,1.0
+1854,"CHAPMAN, Mr Joseph Charles",32.0,7,True,1.0
+1855,"CHARMAN, Mr John",25.0,7,False,1.0
+1856,"CHEVERTON, Mr William Edward",27.0,7,False,1.0
+1857,"CHITTY, Mr Archibald George",28.0,7,False,1.0
+1858,"CHITTY, Mr George Henry",52.0,7,False,1.0
+1859,"CHRISTMAS, Mr H.",33.0,7,False,1.0
+1860,"COLEMAN, Mr Albert Edward",28.0,7,False,1.0
+1861,"COLGAN, Mr E. Joseph",33.0,7,True,1.0
+1862,"COLLINS, Mr John",17.0,7,True,1.0
+1863,"CONWAY, Mr P. W.",25.0,7,False,1.0
+1864,"COOK, Mr George",32.0,7,False,1.0
+1865,"COOMBS, Mr Augustus Charles",42.0,7,False,1.0
+1866,"CORBEN, Mr Ernest Theodore",27.0,7,False,1.0
+1867,"COX, Mr William Denton",29.0,7,False,1.0
+1868,"CRAFTER, Mr Frederick",27.0,7,True,0.0
+1869,"CRAWFORD, Mr Alfred",36.0,7,True,1.0
+1870,"CRISP, Mr Albert Hector",39.0,7,False,1.0
+1871,"CRISPIN, Mr William",32.0,7,False,1.0
+1872,"CROSBY, Mr J. Bertram",42.0,7,False,1.0
+1873,"CROWE, Mr George Frederick",30.0,7,True,0.0
+1874,"CRUMPLIN, Mr Charles",35.0,7,False,1.0
+1875,"CULLEN, Mr Charles",45.0,7,True,1.0
+1876,"CUNNINGHAM, Mr Andrew",35.0,7,True,1.0
+1877,"DANIELS, Mr Sidney Edward",18.0,7,True,1.0
+1878,"DASHWOOD, Mr William George",19.0,7,False,1.0
+1879,"DAVIES, Mr Gordon Raleigh",33.0,7,False,1.0
+1880,"DAVIES, Mr John James",27.0,7,False,1.0
+1881,"DAVIES, Mr Robert J.",26.0,7,False,1.0
+1882,"DEAN, Mr George H.",19.0,7,False,1.0
+1883,"DEEBLE, Mr Alfred Arnold",29.0,7,False,1.0
+1884,"DERRETT, Mr Albert",26.0,7,False,1.0
+1885,"DESLANDS, Mr Percival Stainer",36.0,7,False,1.0
+1886,"DINENAGE, Mr James Richard",49.0,7,False,1.0
+1887,"DODD, Mr George Charles",44.0,7,False,1.0
+1888,"DOLBY, Mr Joseph",36.0,7,False,1.0
+1889,"DONOGHUE, Mr Frank (?Thomas)",35.0,7,False,0.0
+1890,"DOUGHTY, Mr W.",22.0,7,False,1.0
+1891,"DUNFORD, Mr William",41.0,7,False,1.0
+1892,"DYER, Mr William",31.0,7,False,1.0
+1893,"EDBROOKE, Mr F.",24.0,7,False,1.0
+1894,"EDE, Mr George B.",22.0,7,False,1.0
+1895,"EDGE, Mr Frederick William",39.0,7,False,0.0
+1896,"EDWARDS, Mr Clement",39.0,7,False,1.0
+1897,"EGG, Mr W. H.",34.0,7,False,1.0
+1898,"ELLIS, Mr John Bertram",30.0,7,True,1.0
+1899,"ENNIS, Mr Walter",35.0,7,False,1.0
+1900,"ETCHES, Mr Henry Samuel",41.0,7,True,1.0
+1901,"EVANS, Mr George Richard",27.0,7,False,1.0
+1902,"FAIRALL, Mr Henry",38.0,7,False,1.0
+1903,"FARRENDEN, Mr Ernest John",22.0,7,False,1.0
+1904,"FAULKNER, Mr William Stephen",37.0,7,True,1.0
+1905,"FELLOWES, Mr Alfred J.",29.0,7,False,1.0
+1906,"FELTHAM, Mr G.",36.0,7,False,1.0
+1907,"FINCH, Mr Harry",18.0,7,False,1.0
+1908,"FLETCHER, Mr Peter W.",26.0,7,False,1.0
+1909,"FOLEY, Mr William C.",26.0,7,True,1.0
+1910,"FORD, Mr Ernest",32.0,7,False,1.0
+1911,"FORD, Mr F.",37.0,7,False,1.0
+1912,"FOX, Mr William Thomas",27.0,7,False,1.0
+1913,"FRANKLIN, Mr Alan Vincent",29.0,7,False,1.0
+1914,"FREEMAN, Mr Ernest Edward Samuel",43.0,7,False,1.0
+1915,"GEDDES, Mr Richard Charles",31.0,7,False,1.0
+1916,"GIBBONS, Mr Jacob William",36.0,7,True,1.0
+1917,"GILES, Mr John Robert",33.0,7,False,1.0
+1918,"GILL, Mr Joseph Stanley",34.0,7,False,1.0
+1919,"GILL, Mr Patrick",38.0,7,False,1.0
+1920,"GOLD, Mrs Katherine",42.0,7,True,0.0
+1921,"GOLLOP, Mr F.",28.0,7,False,1.0
+1922,"GOSHAWK, Mr Arthur James",31.0,7,False,1.0
+1923,"GREGSON, Miss Mary",44.0,7,True,0.0
+1924,"GUNN, Mr Joseph Alfred",28.0,7,False,1.0
+1925,"GUY, Mr Edward John",28.0,7,True,1.0
+1926,"GWYNN, Mr William Logan",37.0,7,False,1.0
+1927,"HALFORD, Mr Richard",22.0,7,True,1.0
+1928,"HALL, Mr F. A. J.",38.0,7,False,1.0
+1929,"HAMBLYN, Mr Ernest William",41.0,7,False,1.0
+1930,"HAMILTON, Mr Ernest",25.0,7,False,1.0
+1931,"HARDING, Mr A.",20.0,7,False,1.0
+1932,"HARDWICK, Mr Reginald",21.0,7,True,1.0
+1933,"HARDY, Mr John T.",37.0,7,True,1.0
+1934,"HARRIS, Mr Charles William",19.0,7,False,1.0
+1935,"HARRIS, Mr Clifford Henry",16.0,7,False,1.0
+1936,"HARRIS, Mr Edward",18.0,7,False,1.0
+1937,"HARRISON, Mr Aragon Drummond",40.0,7,True,1.0
+1938,"HART, Mr John Edward",31.0,7,True,1.0
+1939,"HARTNELL, Mr Frederick",21.0,7,True,0.0
+1940,"HATCH, Mr Hugh",23.0,7,False,1.0
+1941,"HAWKESWORTH, Mr James",38.0,7,False,1.0
+1942,"HAWKESWORTH, Mr William Walter",43.0,7,False,1.0
+1943,"HAYTER, Mr Arthur",44.0,7,False,1.0
+1944,"HEINEN, Mr Joseph",30.0,7,False,1.0
+1945,"HENDY, Mr Edward Martin",38.0,7,False,1.0
+1946,"HENSFORD, Mr Herbert George",27.0,7,False,1.0
+1947,"HEWETT, Mr Thomas",37.0,7,False,1.0
+1948,"HILL, Mr H. P.",36.0,7,False,1.0
+1949,"HILL, Mr James Colston",38.0,7,False,1.0
+1950,"HINCKLEY, Mr George",35.0,7,False,1.0
+1951,"HINE, Mr William Edward",36.0,7,False,1.0
+1952,"HISCOCK, Mr S.",22.0,7,False,1.0
+1953,"HOARE, Mr Leonard James",16.0,7,False,1.0
+1954,"HOGG, Mr Charles William",37.0,7,False,1.0
+1955,"HOGUE, Mr E.",22.0,7,False,1.0
+1956,"HOLLAND, Mr Thomas",28.0,7,False,1.0
+1957,"HOLLOWAY, Mr Sidney",20.0,7,False,1.0
+1958,"HOPKINS, Mr F.",16.0,7,False,1.0
+1959,"HOUSE, Mr William",38.0,7,False,1.0
+1960,"HOWELL, Mr Arthur Albert",31.0,7,False,1.0
+1961,"HUGHES, Mr William Thomas",36.0,7,False,1.0
+1962,"HUMBY, Mr Frederick",16.0,7,False,0.0
+1963,"HUMPHREYS, Mr Thomas Humphrey",31.0,7,False,1.0
+1964,"HUTCHINSON, Mr James",28.0,7,False,1.0
+1965,"HYLAND, Mr Leo James",19.0,7,True,1.0
+1966,"IDE, Mr Harry John",32.0,7,False,1.0
+1967,"INGROUILLE, Mr Henry",21.0,7,False,1.0
+1968,"INGS, Mr William Ernest",20.0,7,False,1.0
+1969,"JACKSON, Mr Cecil",22.0,7,False,1.0
+1970,"JANAWAY, Mr William Frank",35.0,7,False,0.0
+1971,"JENNER, Mr Harry",41.0,7,False,1.0
+1972,"JENSEN, Mr Charles Valdemar",25.0,7,False,1.0
+1973,"JESSOP, Miss Violet Constance",24.0,7,True,0.0
+1974,"JOHNSON THORNE, Mr Harry",25.0,7,False,1.0
+1975,"JOHNSTON, Mr James",41.0,7,True,1.0
+1976,"JONES, Mr Albert",17.0,7,False,1.0
+1977,"JONES, Mr Arthur Ernest",38.0,7,False,1.0
+1978,"JONES, Mr H.",29.0,7,False,1.0
+1979,"JONES, Mr Reginald V.",20.0,7,False,1.0
+1980,"JOUGHIN, Mr Charles John",32.0,7,True,1.0
+1981,"KEEN, Mr Percy Edward",28.0,7,True,1.0
+1982,"KELLAND, Mr Thomas",21.0,7,False,1.0
+1983,"KENNELL, Mr Charles",30.0,7,False,1.0
+1984,"KERLEY, Mr William Thomas",28.0,7,False,1.0
+1985,"KETCHLEY, Mr Henry",30.0,7,False,1.0
+1986,"KIERAN, Mr James W.",32.0,7,False,1.0
+1987,"KIERAN, Mr Michael",31.0,7,False,1.0
+1988,"KING, Mr Alfred",18.0,7,False,1.0
+1989,"KING, Mr Ernest Waldron",28.0,7,False,1.0
+1990,"KING, Mr G.",20.0,7,False,1.0
+1991,"KINGSCOTE, Mr William Ford",42.0,7,False,1.0
+1992,"KIRKALDY, Mr Thomas",39.0,7,False,1.0
+1993,"KITCHING, Mr Arthur Alfred",30.0,7,False,1.0
+1994,"KLEIN, Mr Herbert",33.0,7,False,1.0
+1995,"KNIGHT, Mr George",44.0,7,True,1.0
+1996,"KNIGHT, Mr Leonard George",21.0,7,False,1.0
+1997,"LACEY, Mr Bert W.",21.0,7,False,1.0
+1998,"LAKE, Mr William",35.0,7,False,1.0
+1999,"LANE, Mr Albert Edward",34.0,7,False,1.0
+2000,"LATIMER, Mr Andrew L",55.0,7,False,1.0
+2001,"LAVINGTON, Miss Bessie",38.0,7,True,0.0
+2002,"LAWRENCE, Mr Arthur",35.0,7,False,1.0
+2003,"LEADER, Mr Archie",22.0,7,False,1.0
+2004,"LEATHER, Mrs Elizabeth May",41.0,7,True,0.0
+2005,"LEFEBVRE, Mr Paul Georges",35.0,7,False,1.0
+2006,"LEONARD, Mr Matthew",26.0,7,False,1.0
+2007,"LEVETT, Mr George Alfred",21.0,7,False,1.0
+2008,"LEWIS, Mr Arthur Ernest Read",27.0,7,True,1.0
+2009,"LIGHT, Mr C.",23.0,7,False,1.0
+2010,"LITTLEJOHN, Mr Alexander James",40.0,7,True,1.0
+2011,"LLOYD, Mr Humphrey",32.0,7,False,1.0
+2012,"LOCKE, Mr A.",33.0,7,False,1.0
+2013,"LONGMUIR, Mr John Dickson",19.0,7,False,1.0
+2014,"LOVELL, Mr John",38.0,7,False,1.0
+2015,"LUCAS, Mr William",34.0,7,True,1.0
+2016,"LYDIATT, Mr Charles",38.0,7,False,1.0
+2017,"MULLER, Mr L.",36.0,7,False,1.0
+2018,"MABEY, Mr J.",23.0,7,False,1.0
+2019,"MACKAY, Mr Charles Donald",34.0,7,True,0.0
+2020,"MACKIE, Mr George William",34.0,7,False,1.0
+2021,"MAJOR, Mr Thomas Edgar",35.0,7,False,1.0
+2022,"MANTLE, Mr Roland Frederick",36.0,7,False,0.0
+2023,"MARCH, Mr John Starr",50.0,7,False,1.0
+2024,"MARKS, Mr J.",26.0,7,False,1.0
+2025,"MARRIOTT, Mr J. W.",20.0,7,False,1.0
+2026,"MARSDEN, Miss Evelyn",28.0,7,True,0.0
+2027,"MARTIN, Mr F.",29.0,7,True,1.0
+2028,"MARTIN, Mrs Annie",33.0,7,True,0.0
+2029,"MAYNARD, Mr Isaac Hiram",31.0,7,True,1.0
+2030,"MAYTUM, Mr Alfred",52.0,7,False,1.0
+2031,"MCCARTHY, Mr Frederick J.",36.0,7,False,0.0
+2032,"MCCAWLEY, Mr Thomas W.",36.0,7,False,1.0
+2033,"MCELROY, Mr Hugh Walter",37.0,7,False,1.0
+2034,"MCGRADY, Mr James",27.0,7,False,1.0
+2035,"MCLAREN, Mrs",40.0,7,True,0.0
+2036,"MCMICKEN, Mr Arthur",23.0,7,True,1.0
+2037,"MCMICKEN, Mr Benjamin Tucker",21.0,7,False,1.0
+2038,"MCMULLIN, Mr James",32.0,7,False,1.0
+2039,"MCMURRAY, Mr William Ernest",43.0,7,False,1.0
+2040,"MELLOR, Mr Arthur",34.0,7,False,1.0
+2041,"MIDDLETON, Mr M. V.",24.0,7,False,1.0
+2042,"MILLS, Mr Christopher",51.0,7,True,1.0
+2043,"MISHELLAMY, Mr Abraham",52.0,7,False,1.0
+2044,"MOORE, Mr Alfred Ernest",39.0,7,False,1.0
+2045,"MORGAN (BIRD), Mr Charles Frederick",42.0,7,False,0.0
+2046,"MORRIS, Mr Frank Herbert",28.0,7,True,0.0
+2047,"MOSS, Mr William",34.0,7,False,1.0
+2048,"MULLEN, Mr Thomas A.",20.0,7,False,1.0
+2049,"NEAL, Mr Henry",25.0,7,True,1.0
+2050,"NICHOLLS, Mr Sidney",39.0,7,False,1.0
+2051,"NICHOLS, Mr A.D.",34.0,7,False,1.0
+2052,"NICHOLS, Mr Walter Henry",35.0,7,True,1.0
+2053,"O'CONNOR, Mr Thomas Peter",39.0,7,False,1.0
+2054,"OLIVE, Mr Ernest Roskelly",28.0,7,False,1.0
+2055,"ORPET, Mr Walter Hayward",31.0,7,False,1.0
+2056,"ORR, Mr J.",40.0,7,False,1.0
+2057,"OSBORNE, Mr William Edward",32.0,7,False,1.0
+2058,"OWEN, Mr Lewis",49.0,7,False,1.0
+2059,"PACEY, Mr Reginald lvan",17.0,7,False,1.0
+2060,"PAINTIN, Mr James Arthur",29.0,7,False,1.0
+2061,"PARSONS, Mr Edward",35.0,7,False,1.0
+2062,"PARSONS, Mr Richard",18.0,7,False,1.0
+2063,"PEARCE, Mr Alfred Emest",24.0,7,False,1.0
+2064,"PEARCEY, Mr Albert Victor",32.0,7,True,1.0
+2065,"PENNAL, Mr Thomas Francis",33.0,7,False,0.0
+2066,"PENNY, Mr William Farr",30.0,7,False,1.0
+2067,"PENROSE, Mr John Poole",49.0,7,False,1.0
+2068,"PERKINS, Mr Laurence Alexander",22.0,7,False,1.0
+2069,"PERRIN, Mr William Charles",39.0,7,False,1.0
+2070,"PERRITON, Mr Hubert Prouse",31.0,7,False,1.0
+2071,"PETTY, Mr Edwin Henry",25.0,7,False,1.0
+2072,"PFROPPER, Mr Richard",30.0,7,True,1.0
+2073,"PHILLIMORE, Mr Harold Charles William",23.0,7,True,1.0
+2074,"PHILLIPS, Mr John George",25.0,7,False,1.0
+2075,"PLATT, Mr W.",18.0,7,False,1.0
+2076,"POOK, Mr P.",34.0,7,False,1.0
+2077,"PORT, Mr Frank",22.0,7,True,0.0
+2078,"PORTEUS, Mr Thomas",32.0,7,False,1.0
+2079,"PRENTICE, Mr Frank Winnold",22.0,7,True,0.0
+2080,"PRICHARD, Mrs Alice",33.0,7,True,0.0
+2081,"PRIDEAUX, Mr John ""Jack"" Arthur",23.0,7,False,1.0
+2082,"PRIOR, Mr Harold John",21.0,7,True,1.0
+2083,"PROCTOR, Mr Charles",40.0,7,False,1.0
+2084,"PRYCE, Mr Charles William",22.0,7,False,1.0
+2085,"PUGH, Mr Alfred",20.0,7,True,1.0
+2086,"PUSEY, Mr John E.",35.0,7,False,1.0
+2087,"RANDALL, Mr Frank Henry",29.0,7,False,0.0
+2088,"RANSOM, Mr James",33.0,7,False,1.0
+2089,"RATTONBURY, Mr William Henry",36.0,7,False,1.0
+2090,"RAY, Mr Frederick Dent",32.0,7,True,0.0
+2091,"REED, Mr Thomas Charles Prowse",54.0,7,False,1.0
+2092,"REVELL, Mr William",31.0,7,False,1.0
+2093,"RICE, Mr John Reginald",25.0,7,False,1.0
+2094,"RICE, Mr Percy",19.0,7,False,1.0
+2095,"RICKS, Mr Cyril G.",23.0,7,False,1.0
+2096,"RIDOUT, Mr W.",29.0,7,False,1.0
+2097,"RIMMER, Mr Gilbert",27.0,7,False,1.0
+2098,"ROBERTON, Mr George Edward",19.0,7,False,1.0
+2099,"ROBERTS, Mr Frederick (Frank John?)",36.0,7,False,1.0
+2100,"ROBERTS, Mr Hugh H.",40.0,7,False,1.0
+2101,"ROBERTS, Mrs Mary Kezziah",41.0,7,True,0.0
+2102,"ROBINSON, Mr James William",30.0,7,False,1.0
+2103,"ROBINSON, Mrs Annie",40.0,7,True,0.0
+2104,"ROGERS, Mr Edward James William",32.0,7,False,1.0
+2105,"ROGERS, Mr Michael",27.0,7,False,1.0
+2106,"ROSS, Mr Horace Leopold",36.0,7,True,1.0
+2107,"ROWE, Mr Edward M.",31.0,7,False,1.0
+2108,"RULE, Mr Samuel James",58.0,7,True,1.0
+2109,"RUSSELL, Mr Boysie Richard",17.0,7,False,1.0
+2110,"RYAN, Mr Tom",27.0,7,False,1.0
+2111,"RYERSON, Mr William Edwy",32.0,7,True,1.0
+2112,"SAMUEL, Mr Owen Wilmore",41.0,7,False,1.0
+2113,"SAUNDERS, Mr D. E.",26.0,7,False,1.0
+2114,"SAVAGE, Mr Charles J.",23.0,7,True,1.0
+2115,"SCOTT, Mr John",21.0,7,False,1.0
+2116,"SCOVELL, Mr Robert",42.0,7,False,1.0
+2117,"SEDUNARY, Mr Sidney Francis",25.0,7,False,0.0
+2118,"SEWARD, Mr Wilfred Deable",25.0,7,True,1.0
+2119,"SHAW, Mr Henry",39.0,7,False,1.0
+2120,"SHEA, Mr John",39.0,7,False,1.0
+2121,"SIEBERT, Mr Sidney Conrad",29.0,7,False,1.0
+2122,"SIMMONS, Mr Alfred (Andrew)",31.0,7,True,1.0
+2123,"SIMMONS, Mr Frederick C.",25.0,7,False,0.0
+2124,"SIMMONS, Mr W.",32.0,7,False,1.0
+2125,"SIVIER, Mr William",23.0,7,False,1.0
+2126,"SKINNER, Mr Edward",33.0,7,False,1.0
+2127,"SLIGHT, Mr Harry John",35.0,7,False,1.0
+2128,"SLIGHT, Mr William H.",37.0,7,False,1.0
+2129,"SLOAN, Miss Mary",28.0,7,True,0.0
+2130,"SLOCOMBE, Mrs Maud (ne Waldon)",30.0,7,True,0.0
+2131,"SMILLIE, Mr John",29.0,7,False,1.0
+2132,"SMITH, Miss Katherine E.",42.0,7,True,0.0
+2133,"SMITH, Mr Charles",38.0,7,False,1.0
+2134,"SMITH, Mr Charles Edwin",38.0,7,False,1.0
+2135,"SMITH, Mr F.",20.0,7,False,1.0
+2136,"SMITH, Mr J.",24.0,7,False,1.0
+2137,"SMITH, Mr John Richard Jago",35.0,7,False,1.0
+2138,"SMITH, Mr Robert G.",30.0,7,False,1.0
+2139,"SNAPE, Mrs Lucy Violet",22.0,7,False,0.0
+2140,"STAGG, Mr John Henry",34.0,7,False,1.0
+2141,"STAP, Miss Sarah Agnes",47.0,7,True,0.0
+2142,"STEBBINGS, Mr Sydney Frederick",34.0,7,False,0.0
+2143,"STEWART, Mr John",27.0,7,True,1.0
+2144,"STONE, Mr Edmond J.",33.0,7,False,1.0
+2145,"STONE, Mr Edward Thomas",30.0,7,False,1.0
+2146,"STROUD, Mr Edward Alfred Orlando",19.0,7,False,1.0
+2147,"STROUD, Mr Harry John",35.0,7,False,1.0
+2148,"STRUGNELL, Mr John H.",34.0,7,False,1.0
+2149,"STUBBINGS, Mr Harry Robert",31.0,7,False,1.0
+2150,"SWAN, Mr W.",46.0,7,False,1.0
+2151,"SYMONDS, Mr J.",38.0,7,False,1.0
+2153,"TAYLOR, Mr Bernard Cuthbert",22.0,7,False,1.0
+2154,"TAYLOR, Mr George Frederick",32.0,7,False,0.0
+2155,"TAYLOR, Mr Leonard",23.0,7,False,1.0
+2156,"TAYLOR, Mr William John",30.0,7,False,1.0
+2157,"TERRELL, Mr Frank",27.0,7,True,0.0
+2158,"TEUTON (?FENTON), Mr Thomas Moore",32.0,7,False,1.0
+2159,"THALER, Mr Montague Donald",17.0,7,False,0.0
+2160,"THEISSINGER, Mr Alfred",43.0,7,True,1.0
+2161,"THOMAS, Mr Albert Charles",23.0,7,True,1.0
+2162,"THOMAS, Mr Benjamin James",32.0,7,True,1.0
+2163,"THOMPSON, Mr Herbert Henry",25.0,7,False,1.0
+2164,"THORLEY, Mr William",39.0,7,False,1.0
+2165,"TOMS, Mr Francis A.",31.0,7,True,0.0
+2166,"TOPP, Mr Thomas Frederick",28.0,7,False,0.0
+2167,"TOSHACK, Mr James Adamson",30.0,7,False,1.0
+2168,"TURNER, Mr L.",28.0,7,False,1.0
+2169,"VEAL, Mr Thomas Henry Edom",38.0,7,False,1.0
+2170,"WAKE, Mr Percy",37.0,7,False,1.0
+2171,"WALLIS, Mrs Catherine Jane",35.0,7,False,0.0
+2172,"WALPOLE, Mr James",48.0,7,False,1.0
+2173,"WALSH, Miss Catherine",32.0,7,False,0.0
+2174,"WARD, Mr Edward",34.0,7,False,1.0
+2175,"WARD, Mr Percy Thomas",38.0,7,False,1.0
+2176,"WARD, Mr William",36.0,7,True,1.0
+2177,"WAREHAM, Mr Robert Arthur",36.0,7,False,1.0
+2178,"WARWICK, Mr Tom",35.0,7,False,1.0
+2179,"WATSON, Mr W. A.",14.0,7,False,1.0
+2180,"WEATHERSTONE, Mr Thomas Herbert",24.0,7,False,1.0
+2181,"WEBB, Mr Brooke Holding",50.0,7,False,1.0
+2182,"WEIKMAN, Mr August H.",51.0,7,True,1.0
+2183,"WELCH, Mr W. H.",23.0,7,False,1.0
+2184,"WHEAT, Mr Joseph Thomas",29.0,7,True,1.0
+2185,"WHEELTON, Mr Edneser (Ernest) Edward",29.0,7,True,1.0
+2186,"WHITE, Mr Arthur",37.0,7,False,1.0
+2187,"WHITE, Mr J. W.",27.0,7,False,1.0
+2188,"WHITE, Mr Leonard Lisle Oliver",31.0,7,False,1.0
+2189,"WHITELEY, Mr Thomas Arthur",18.0,7,True,1.0
+2190,"WHITFORD, Mr Alfred Henry",39.0,7,False,1.0
+2191,"WIDGERY, Mr James George",37.0,7,True,1.0
+2192,"WILLIAMS, Mr Arthur J.",38.0,7,False,1.0
+2193,"WILLIAMS, Mr Walter John",28.0,7,True,1.0
+2194,"WILLIAMSON, Mr James Bertram",35.0,7,False,1.0
+2195,"WILLIS, Mr W.",46.0,7,False,1.0
+2196,"WILLSHER, Mr William Audrey",33.0,7,False,1.0
+2197,"WINDEBANK, Mr Alfred Edgar",38.0,7,True,1.0
+2198,"WINSER, Mr Rowland",33.0,7,False,1.0
+2199,"WITTER, Mr James William Cheetham",31.0,7,True,1.0
+2200,"WITTMAN, Mr Henry",34.0,7,False,1.0
+2201,"WOOD, Mr James Thomas",40.0,7,False,1.0
+2202,"WOODY, Mr Oscar Scott",44.0,7,False,1.0
+2203,"WORMALD, Mr Frederick William",36.0,7,False,0.0
+2204,"WRAPSON, Mr Frederick Bernard",19.0,7,False,0.0
+2205,"WRIGHT, Mr Frederick",24.0,7,False,0.0
+2206,"WRIGHT, Mr William",40.0,7,True,1.0
+2207,"YEARSLEY, Mr Harry",38.0,7,True,1.0
